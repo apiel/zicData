@@ -6,27 +6,19 @@
     "SerializeTrack": {
         "VARIATION": 0.0
     },
-    "Synth1": {
+    "Track6": {
         "values": [
             {
                 "key": "ENGINE",
-                "value": 8.0
-            },
-            {
-                "key": "VAL_1",
-                "value": -6.0
-            },
-            {
-                "key": "VAL_2",
-                "value": 0.9900000095367432
+                "value": 11.0
             },
             {
                 "key": "VAL_3",
-                "value": 50.0
+                "value": -21.0
             },
             {
                 "key": "VAL_4",
-                "value": 28.0
+                "value": 4.799995422363281
             },
             {
                 "key": "VAL_5",
@@ -34,31 +26,39 @@
             },
             {
                 "key": "VAL_6",
-                "value": 40.0
+                "value": 19.0
             },
             {
                 "key": "VAL_7",
-                "value": 0.0
+                "value": 32.0
             },
             {
                 "key": "VAL_8",
-                "value": 0.0
+                "value": 31.0
             },
             {
                 "key": "VAL_9",
-                "value": 0.0
+                "value": 88.0
             },
             {
                 "key": "VAL_10",
                 "value": 0.0
             },
             {
+                "key": "VAL_11",
+                "value": 1.0
+            },
+            {
+                "key": "VAL_12",
+                "value": 62.0
+            },
+            {
                 "key": "ATTACK",
-                "value": 640.0
+                "value": 1460.0
             },
             {
                 "key": "RELEASE",
-                "value": 1710.0
+                "value": 910.0
             }
         ]
     }

@@ -7,10 +7,6 @@
                 "value": 0.0
             },
             {
-                "key": "VAL_1",
-                "value": 0.0
-            },
-            {
                 "key": "VAL_2",
                 "value": 0.0
             },
@@ -24,11 +20,11 @@
             },
             {
                 "key": "VAL_5",
-                "value": 100.0
+                "value": 0.0
             },
             {
                 "key": "VAL_6",
-                "value": 0.0
+                "value": 100.0
             },
             {
                 "key": "VAL_7",
@@ -51,7 +47,11 @@
                 "value": 0.0
             },
             {
-                "key": "BROWSER",
+                "key": "VAL_12",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_1",
                 "value": 1.0
             }
         ]

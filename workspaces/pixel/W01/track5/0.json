@@ -1,25 +1,32 @@
 {
-    "Drum2": {
+    "Sequencer": {
+        "STATUS": 1.0,
+        "STEPS": null
+    },
+    "SerializeTrack": {
+        "VARIATION": 0.0
+    },
+    "Track5": {
         "values": [
             {
                 "key": "ENGINE",
-                "value": 7.0
+                "value": 17.0
             },
             {
                 "key": "VAL_1",
-                "value": 0.0
+                "value": 340.0
             },
             {
                 "key": "VAL_2",
-                "value": 100.0
+                "value": 1040.0
             },
             {
                 "key": "VAL_3",
-                "value": 100.0
+                "value": -6.0
             },
             {
                 "key": "VAL_4",
-                "value": 0.0
+                "value": 0.9900000095367432
             },
             {
                 "key": "VAL_5",
@@ -27,15 +34,15 @@
             },
             {
                 "key": "VAL_6",
-                "value": 50.0
+                "value": 28.0
             },
             {
-                "key": "VAL_7",
+                "key": "VAL__5",
                 "value": 0.0
             },
             {
-                "key": "VAL_8",
-                "value": 0.0
+                "key": "VAL__6",
+                "value": 40.0
             },
             {
                 "key": "VAL_9",
@@ -46,20 +53,13 @@
                 "value": 0.0
             },
             {
-                "key": "DURATION",
-                "value": 2460.0
+                "key": "VAL_11",
+                "value": 0.0
             },
             {
-                "key": "AMP_MORPH",
-                "value": 84.0
+                "key": "VAL_12",
+                "value": 0.0
             }
         ]
-    },
-    "Sequencer": {
-        "STATUS": 1.0,
-        "STEPS": null
-    },
-    "SerializeTrack": {
-        "VARIATION": 0.0
     }
 }

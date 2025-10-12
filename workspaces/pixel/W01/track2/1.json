@@ -1,33 +1,25 @@
 {
-    "Drum2": {
+    "Track2": {
         "values": [
             {
                 "key": "ENGINE",
                 "value": 8.0
             },
             {
-                "key": "VAL_1",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_2",
-                "value": 0.9900000095367432
-            },
-            {
                 "key": "VAL_3",
-                "value": 76.0
+                "value": 0.0
             },
             {
                 "key": "VAL_4",
-                "value": 64.0
+                "value": 0.9900000095367432
             },
             {
                 "key": "VAL_5",
-                "value": 0.0
+                "value": 76.0
             },
             {
                 "key": "VAL_6",
-                "value": 26.0
+                "value": 64.0
             },
             {
                 "key": "VAL_7",
@@ -35,14 +27,22 @@
             },
             {
                 "key": "VAL_8",
-                "value": 38.0
+                "value": 26.0
             },
             {
                 "key": "VAL_9",
-                "value": 6.0
+                "value": 0.0
             },
             {
                 "key": "VAL_10",
+                "value": 38.0
+            },
+            {
+                "key": "VAL_11",
+                "value": 6.0
+            },
+            {
+                "key": "VAL_12",
                 "value": 48.0
             },
             {

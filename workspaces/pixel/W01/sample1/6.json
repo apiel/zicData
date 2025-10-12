@@ -7,51 +7,51 @@
                 "value": 1.0
             },
             {
-                "key": "VAL_1",
-                "value": 0.0
-            },
-            {
                 "key": "VAL_2",
                 "value": 0.0
             },
             {
                 "key": "VAL_3",
-                "value": 4.0
+                "value": 0.0
             },
             {
                 "key": "VAL_4",
-                "value": 0.0
+                "value": 4.0
             },
             {
                 "key": "VAL_5",
-                "value": 100.0
+                "value": 0.0
             },
             {
                 "key": "VAL_6",
-                "value": 59.0
+                "value": 100.0
             },
             {
                 "key": "VAL_7",
-                "value": 159.0
+                "value": 59.0
             },
             {
                 "key": "VAL_8",
-                "value": 18.0
+                "value": 159.0
             },
             {
                 "key": "VAL_9",
-                "value": 16.0
+                "value": 18.0
             },
             {
                 "key": "VAL_10",
-                "value": 0.0
+                "value": 16.0
             },
             {
                 "key": "VAL_11",
                 "value": 0.0
             },
             {
-                "key": "BROWSER",
+                "key": "VAL_12",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_1",
                 "value": 1.0
             }
         ]
