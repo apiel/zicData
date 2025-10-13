@@ -8,6 +8,7 @@
     },
     "Track3": {
         "engine": "Clap",
+        "engineType": "Drum",
         "values": [
             {
                 "key": "ENGINE",

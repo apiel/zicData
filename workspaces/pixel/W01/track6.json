@@ -8,6 +8,7 @@
     },
     "Track6": {
         "engine": "Wavtabl2",
+        "engineType": "Synth",
         "values": [
             {
                 "key": "ENGINE",

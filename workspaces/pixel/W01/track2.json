@@ -8,6 +8,7 @@
     },
     "Track2": {
         "engine": "FM",
+        "engineType": "Drum",
         "values": [
             {
                 "key": "ENGINE",

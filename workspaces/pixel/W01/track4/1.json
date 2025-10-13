@@ -8,6 +8,7 @@
     },
     "Track4": {
         "engine": "ER-1",
+        "engineType": "Drum",
         "sampleFile": "kick_07.wav",
         "values": [
             {
