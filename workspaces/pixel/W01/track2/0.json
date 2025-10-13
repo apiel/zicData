@@ -1,9 +1,25 @@
 {
+    "Sequencer": {
+        "STATUS": 1.0,
+        "STEPS": null
+    },
+    "SerializeTrack": {
+        "VARIATION": 0.0
+    },
     "Track2": {
+        "engine": "FM",
         "values": [
             {
                 "key": "ENGINE",
                 "value": 7.0
+            },
+            {
+                "key": "VAL_1",
+                "value": 500.0
+            },
+            {
+                "key": "VAL_2",
+                "value": 0.0
             },
             {
                 "key": "VAL_3",
@@ -44,22 +60,7 @@
             {
                 "key": "VAL_12",
                 "value": 0.0
-            },
-            {
-                "key": "DURATION",
-                "value": 2460.0
-            },
-            {
-                "key": "AMP_MORPH",
-                "value": 84.0
             }
         ]
-    },
-    "Sequencer": {
-        "STATUS": 1.0,
-        "STEPS": null
-    },
-    "SerializeTrack": {
-        "VARIATION": 0.0
     }
 }

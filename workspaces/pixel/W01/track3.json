@@ -1,9 +1,25 @@
 {
+    "Sequencer": {
+        "STATUS": 1.0,
+        "STEPS": null
+    },
+    "SerializeTrack": {
+        "VARIATION": 0.0
+    },
     "Track3": {
+        "engine": "Clap",
         "values": [
             {
                 "key": "ENGINE",
                 "value": 3.0
+            },
+            {
+                "key": "VAL_1",
+                "value": 500.0
+            },
+            {
+                "key": "VAL_2",
+                "value": 0.0
             },
             {
                 "key": "VAL_3",
@@ -44,22 +60,7 @@
             {
                 "key": "VAL_12",
                 "value": 20.0
-            },
-            {
-                "key": "DURATION",
-                "value": 500.0
-            },
-            {
-                "key": "AMP_MORPH",
-                "value": 0.0
             }
         ]
-    },
-    "Sequencer": {
-        "STATUS": 1.0,
-        "STEPS": null
-    },
-    "SerializeTrack": {
-        "VARIATION": 0.0
     }
 }

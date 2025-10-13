@@ -7,6 +7,7 @@
         "VARIATION": 0.0
     },
     "Track5": {
+        "engine": "String",
         "values": [
             {
                 "key": "ENGINE",
