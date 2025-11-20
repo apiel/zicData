@@ -185,7 +185,7 @@
         ]
     },
     "SerializeTrack": {
-        "VARIATION": 3.0
+        "CLIP": 3.0
     },
     "Track1": {
         "engine": "Kick",

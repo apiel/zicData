@@ -113,7 +113,7 @@
         "STEPS": null
     },
     "SerializeTrack": {
-        "VARIATION": 10.0
+        "CLIP": 10.0
     },
     "TrackFx": {
         "values": [
