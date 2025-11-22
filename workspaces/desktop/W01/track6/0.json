@@ -1,18 +1,165 @@
 {
+    "ClipSequencer": null,
     "Sequencer": {
         "STATUS": 1.0,
-        "STEPS": null
+        "STEPS": [
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 71,
+                "position": 18,
+                "velocity": 0.9342237710952759
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 56,
+                "position": 8,
+                "velocity": 0.7721186876296997
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 63,
+                "position": 34,
+                "velocity": 0.8893340826034546
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 50,
+                "position": 4,
+                "velocity": 0.654448390007019
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 69,
+                "position": 42,
+                "velocity": 0.9475532174110413
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 61,
+                "position": 14,
+                "velocity": 0.8163347840309143
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 73,
+                "position": 46,
+                "velocity": 0.9042279124259949
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 58,
+                "position": 28,
+                "velocity": 0.7382551431655884
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 67,
+                "position": 60,
+                "velocity": 0.9594438076019287
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 52,
+                "position": 24,
+                "velocity": 0.8123375773429871
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 75,
+                "position": 56,
+                "velocity": 0.7021191716194153
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 54,
+                "position": 16,
+                "velocity": 0.9483376145362854
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 64,
+                "position": 38,
+                "velocity": 0.8745536208152771
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 59,
+                "position": 48,
+                "velocity": 0.7884439826011658
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 68,
+                "position": 12,
+                "velocity": 0.821998119354248
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 62,
+                "position": 32,
+                "velocity": 0.9332217574119568
+            }
+        ],
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 0.0
     },
     "Track6": {
-        "engine": "Wavtabl2",
+        "engine": "Space",
         "engineType": "Synth",
         "values": [
             {
                 "key": "ENGINE",
-                "value": 11.0
+                "value": 13.0
             },
             {
                 "key": "VAL_1",
@@ -24,35 +171,35 @@
             },
             {
                 "key": "VAL_3",
-                "value": -21.0
+                "value": 18.0
             },
             {
                 "key": "VAL_4",
-                "value": 4.799995422363281
+                "value": 17.0
             },
             {
                 "key": "VAL_5",
-                "value": 0.0
+                "value": 63.0
             },
             {
                 "key": "VAL_6",
-                "value": 19.0
+                "value": 96.0
             },
             {
                 "key": "VAL_7",
-                "value": 32.0
+                "value": 83.0
             },
             {
                 "key": "VAL_8",
-                "value": 31.0
+                "value": 92.0
             },
             {
                 "key": "VAL_9",
-                "value": 88.0
+                "value": 1.3999981880187988
             },
             {
                 "key": "VAL_10",
-                "value": 0.0
+                "value": 83.0
             },
             {
                 "key": "VAL_11",
@@ -60,7 +207,7 @@
             },
             {
                 "key": "VAL_12",
-                "value": 62.0
+                "value": 78.0
             }
         ]
     }

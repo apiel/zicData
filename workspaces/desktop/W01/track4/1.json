@@ -1,7 +1,152 @@
 {
     "Sequencer": {
         "STATUS": 1.0,
-        "STEPS": null
+        "STEPS": [
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 72,
+                "position": 12,
+                "velocity": 0.9154436588287354
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 57,
+                "position": 4,
+                "velocity": 0.643221378326416
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 63,
+                "position": 44,
+                "velocity": 0.8247796893119812
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 51,
+                "position": 20,
+                "velocity": 0.9722338318824768
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 70,
+                "position": 32,
+                "velocity": 0.5812938213348389
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 48,
+                "position": 2,
+                "velocity": 0.8999229669570923
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 66,
+                "position": 24,
+                "velocity": 0.7685225605964661
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 59,
+                "position": 56,
+                "velocity": 0.9375447034835815
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 68,
+                "position": 40,
+                "velocity": 0.7322892546653748
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 62,
+                "position": 8,
+                "velocity": 0.8514227271080017
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 55,
+                "position": 16,
+                "velocity": 0.9173328876495361
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 73,
+                "position": 60,
+                "velocity": 0.6641179919242859
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 50,
+                "position": 28,
+                "velocity": 0.789334237575531
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 64,
+                "position": 52,
+                "velocity": 0.9112281799316406
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 71,
+                "position": 36,
+                "velocity": 0.7395222783088684
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 58,
+                "position": 48,
+                "velocity": 0.8032999038696289
+            }
+        ]
     },
     "SerializeTrack": {
         "CLIP": 1.0

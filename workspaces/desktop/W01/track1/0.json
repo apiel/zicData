@@ -1,60 +1,5 @@
 {
-    "Track1": {
-        "values": [
-            {
-                "key": "ENGINE",
-                "value": 4.0
-            },
-            {
-                "key": "VAL_3",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_4",
-                "value": 197.0
-            },
-            {
-                "key": "VAL_5",
-                "value": -14.0
-            },
-            {
-                "key": "VAL_6",
-                "value": 19.0
-            },
-            {
-                "key": "VAL_7",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_8",
-                "value": 13.0
-            },
-            {
-                "key": "VAL_9",
-                "value": 75.90003967285156
-            },
-            {
-                "key": "VAL_10",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_11",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_12",
-                "value": 0.0
-            },
-            {
-                "key": "DURATION",
-                "value": 1580.0
-            },
-            {
-                "key": "AMP_MORPH",
-                "value": 22.0
-            }
-        ]
-    },
+    "ClipSequencer": null,
     "Sequencer": {
         "STATUS": 1.0,
         "STEPS": [
@@ -220,9 +165,68 @@
                 "position": 52,
                 "velocity": 0.800000011920929
             }
-        ]
+        ],
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 0.0
+    },
+    "Track1": {
+        "engine": "Kick",
+        "engineType": "Drum",
+        "values": [
+            {
+                "key": "ENGINE",
+                "value": 4.0
+            },
+            {
+                "key": "VAL_1",
+                "value": 1840.0
+            },
+            {
+                "key": "VAL_2",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_3",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_4",
+                "value": 197.0
+            },
+            {
+                "key": "VAL_5",
+                "value": -14.0
+            },
+            {
+                "key": "VAL_6",
+                "value": 19.0
+            },
+            {
+                "key": "VAL_7",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_8",
+                "value": 13.0
+            },
+            {
+                "key": "VAL_9",
+                "value": 24.0
+            },
+            {
+                "key": "VAL_10",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_11",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_12",
+                "value": 0.0
+            }
+        ]
     }
 }

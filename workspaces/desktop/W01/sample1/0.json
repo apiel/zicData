@@ -58,7 +58,8 @@
     },
     "Sequencer": {
         "STATUS": 1.0,
-        "STEPS": null
+        "STEPS": null,
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 0.0

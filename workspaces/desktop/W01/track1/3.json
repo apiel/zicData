@@ -1,4 +1,5 @@
 {
+    "ClipSequencer": null,
     "Sequencer": {
         "STATUS": 1.0,
         "STEPS": [
@@ -25,7 +26,7 @@
                 "enabled": true,
                 "len": 1,
                 "motion": "---",
-                "note": 60,
+                "note": 72,
                 "position": 8,
                 "velocity": 0.800000011920929
             },
@@ -34,7 +35,7 @@
                 "enabled": true,
                 "len": 1,
                 "motion": "---",
-                "note": 60,
+                "note": 48,
                 "position": 12,
                 "velocity": 0.800000011920929
             },
@@ -182,7 +183,8 @@
                 "position": 62,
                 "velocity": 0.5900001525878906
             }
-        ]
+        ],
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 3.0
