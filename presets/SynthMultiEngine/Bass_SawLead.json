@@ -1,0 +1,18 @@
+{
+  "engine": "Bass",
+  "engineType": "Synth",
+  "values": [
+    {"key": "ENGINE", "value": 12},
+    {"key": "PITCH", "value": 0},
+    {"key": "BEND", "value": 40.0},
+    {"key": "WAVEFORM_TYPE", "value": 1},
+    {"key": "SHAPE", "value": 0.0},
+    {"key": "CUTOFF", "value": 40.0},
+    {"key": "RESONANCE", "value": 30.0},
+    {"key": "FX_TYPE", "value": 0},
+    {"key": "FX_AMOUNT", "value": 0.0},
+    {"key": "FX2_TYPE", "value": 0},
+    {"key": "FX2_AMOUNT", "value": 0.0},
+    {"key": "DURATION", "value": 60.0}
+  ]
+}

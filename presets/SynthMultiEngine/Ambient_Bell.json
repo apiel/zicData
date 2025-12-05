@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Shimmering bell with long decay and reverb",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 185.0},
+    {"key": "RESONATOR", "value": 1.15},
+    {"key": "TIMBRE", "value": 15.0},
+    {"key": "DRIVE", "value": -25.0},
+    {"key": "TONE_DECAY", "value": 0.12},
+    {"key": "REVERB", "value": 72.0},
+    {"key": "FM_FREQ", "value": 85.0},
+    {"key": "FM_AMP", "value": 35.0},
+    {"key": "ENV_MOD", "value": 8.0},
+    {"key": "ENV_SHAPE", "value": 0.85},
+    {"key": "DURATION", "value": 1200.0}
+  ]
+}

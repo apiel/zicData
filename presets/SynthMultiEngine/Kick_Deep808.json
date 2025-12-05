@@ -1,0 +1,18 @@
+{
+  "engine": "Kick",
+  "engineType": "Drum",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "ENVELOPE_SHAPE", "value": 25.0},
+    {"key": "WAVEFORM_TYPE", "value": 50.0},
+    {"key": "PITCH", "value": -6},
+    {"key": "TRANSIENT", "value": 40.0},
+    {"key": "CUTOFF", "value": 0.0},
+    {"key": "RESONANCE", "value": 0.0},
+    {"key": "FX_TYPE", "value": 0},
+    {"key": "FX_AMOUNT", "value": 0.0},
+    {"key": "FX2_TYPE", "value": 0},
+    {"key": "FX2_AMOUNT", "value": 0.0},
+    {"key": "DURATION", "value": 70.0}
+  ]
+}

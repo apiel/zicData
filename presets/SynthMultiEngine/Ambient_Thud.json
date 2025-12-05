@@ -1,0 +1,19 @@
+{
+  "engine": "Kick",
+  "engineType": "Drum",
+  "description": "Subtle ambient thud with long decay and reverb",
+  "values": [
+    {"key": "ENGINE", "value": 4},
+    {"key": "ENVELOPE_SHAPE", "value": 28.0},
+    {"key": "WAVEFORM_TYPE", "value": 5},
+    {"key": "PITCH", "value": -4},
+    {"key": "TRANSIENT", "value": 25.0},
+    {"key": "CUTOFF", "value": -55.0},
+    {"key": "RESONANCE", "value": 22.0},
+    {"key": "FX_TYPE", "value": 1},
+    {"key": "FX_AMOUNT", "value": 62.0},
+    {"key": "FX2_TYPE", "value": 22},
+    {"key": "FX2_AMOUNT", "value": 35.0},
+    {"key": "DURATION", "value": 850.0}
+  ]
+}

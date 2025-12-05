@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Simmons-style electronic tom",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 125.0},
+    {"key": "RESONATOR", "value": 0.85},
+    {"key": "TIMBRE", "value": 12.0},
+    {"key": "DRIVE", "value": 15.0},
+    {"key": "TONE_DECAY", "value": 0.065},
+    {"key": "REVERB", "value": 45.0},
+    {"key": "FM_FREQ", "value": 55.0},
+    {"key": "FM_AMP", "value": 25.0},
+    {"key": "ENV_MOD", "value": 35.0},
+    {"key": "ENV_SHAPE", "value": 0.65},
+    {"key": "DURATION", "value": 280.0}
+  ]
+}

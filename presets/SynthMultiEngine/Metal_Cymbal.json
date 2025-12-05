@@ -1,0 +1,18 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "values": [
+    {"key": "ENGINE", "value": 3},
+    {"key": "BASE_FREQ", "value": 200.0},
+    {"key": "RESONATOR", "value": 1.0},
+    {"key": "TIMBRE", "value": 60.0},
+    {"key": "DRIVE", "value": 0.0},
+    {"key": "TONE_DECAY", "value": 0.15},
+    {"key": "REVERB", "value": 50.0},
+    {"key": "FM_FREQ", "value": 100.0},
+    {"key": "FM_AMP", "value": 40.0},
+    {"key": "ENV_MOD", "value": 20.0},
+    {"key": "ENV_SHAPE", "value": 0.5},
+    {"key": "DURATION", "value": 80.0}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "engine": "Bass",
+  "engineType": "Synth",
+  "description": "Mellow rounded bass with subtle warmth",
+  "values": [
+    {"key": "ENGINE", "value": 14},
+    {"key": "PITCH", "value": 0},
+    {"key": "BEND", "value": 12.0},
+    {"key": "WAVEFORM_TYPE", "value": 4},
+    {"key": "SHAPE", "value": 15.0},
+    {"key": "CUTOFF", "value": 32.0},
+    {"key": "RESONANCE", "value": 18.0},
+    {"key": "FX_TYPE", "value": 7},
+    {"key": "FX_AMOUNT", "value": 18.0},
+    {"key": "FX2_TYPE", "value": 13},
+    {"key": "FX2_AMOUNT", "value": 8.0},
+    {"key": "DURATION", "value": 550.0}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "engine": "Kick",
+  "engineType": "Drum",
+  "description": "Punchy jungle/DNB kick with hard transient and tight decay",
+  "values": [
+    {"key": "ENGINE", "value": 4},
+    {"key": "ENVELOPE_SHAPE", "value": 72.0},
+    {"key": "WAVEFORM_TYPE", "value": 50},
+    {"key": "PITCH", "value": 4},
+    {"key": "TRANSIENT", "value": 95.0},
+    {"key": "CUTOFF", "value": -25.0},
+    {"key": "RESONANCE", "value": 8.0},
+    {"key": "FX_TYPE", "value": 12},
+    {"key": "FX_AMOUNT", "value": 35.0},
+    {"key": "FX2_TYPE", "value": 0},
+    {"key": "FX2_AMOUNT", "value": 0.0},
+    {"key": "DURATION", "value": 320.0}
+  ]
+}

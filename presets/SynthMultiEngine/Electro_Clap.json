@@ -1,0 +1,19 @@
+{
+  "engine": "Clap",
+  "engineType": "Drum",
+  "description": "Tight electro clap with crisp transient",
+  "values": [
+    {"key": "ENGINE", "value": 3},
+    {"key": "DECAY", "value": 15.0},
+    {"key": "BURSTS", "value": 3},
+    {"key": "SPACING", "value": 10.0},
+    {"key": "NOISE_COLOR", "value": 82.0},
+    {"key": "FILTER_FREQ", "value": 72.0},
+    {"key": "FILTER_RESO", "value": 48.0},
+    {"key": "PUNCH", "value": 95.0},
+    {"key": "TRANSIENT", "value": 72.0},
+    {"key": "BOOST", "value": 32.0},
+    {"key": "REVERB", "value": 15.0},
+    {"key": "DURATION", "value": 165.0}
+  ]
+}

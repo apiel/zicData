@@ -1,0 +1,19 @@
+{
+  "engine": "Perc",
+  "engineType": "Drum",
+  "description": "Snappy trap percussion hit",
+  "values": [
+    {"key": "ENGINE", "value": 1},
+    {"key": "BASE_FREQ", "value": 520.0},
+    {"key": "CLICK", "value": 58.0},
+    {"key": "BODY", "value": 45.0},
+    {"key": "PITCH_DECAY", "value": 0.065},
+    {"key": "TONE_DECAY", "value": 0.15},
+    {"key": "RESONANCE", "value": 35.0},
+    {"key": "FX_TYPE", "value": 12},
+    {"key": "FX_AMOUNT", "value": 18.0},
+    {"key": "ENV_MOD", "value": 42.0},
+    {"key": "ENV_SHAPE", "value": 0.22},
+    {"key": "DURATION", "value": 180.0}
+  ]
+}

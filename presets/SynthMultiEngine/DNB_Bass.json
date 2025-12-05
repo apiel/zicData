@@ -1,0 +1,19 @@
+{
+  "engine": "Bass",
+  "engineType": "Synth",
+  "description": "Deep rolling Reese bass with subtle modulation",
+  "values": [
+    {"key": "ENGINE", "value": 14},
+    {"key": "PITCH", "value": 0},
+    {"key": "BEND", "value": 15.0},
+    {"key": "WAVEFORM_TYPE", "value": 1},
+    {"key": "SHAPE", "value": 35.0},
+    {"key": "CUTOFF", "value": 42.0},
+    {"key": "RESONANCE", "value": 28.0},
+    {"key": "FX_TYPE", "value": 4},
+    {"key": "FX_AMOUNT", "value": 22.0},
+    {"key": "FX2_TYPE", "value": 8},
+    {"key": "FX2_AMOUNT", "value": 18.0},
+    {"key": "DURATION", "value": 800.0}
+  ]
+}

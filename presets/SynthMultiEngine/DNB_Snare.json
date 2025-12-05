@@ -1,0 +1,19 @@
+{
+  "engine": "Perc",
+  "engineType": "Drum",
+  "description": "Amen-style ghost snare for jungle fills",
+  "values": [
+    {"key": "ENGINE", "value": 1},
+    {"key": "PITCH", "value": 195.0},
+    {"key": "BEND", "value": 55.0},
+    {"key": "HARMONICS", "value": 25.0},
+    {"key": "NOISE_TUNE", "value": 380.0},
+    {"key": "NOISE_SHAPE", "value": 18.0},
+    {"key": "NOISE_DEC", "value": 22.0},
+    {"key": "MIX", "value": 65.0},
+    {"key": "PUNCH", "value": 88.0},
+    {"key": "DRIVE", "value": 28.0},
+    {"key": "REVERB", "value": 8.0},
+    {"key": "DURATION", "value": 145.0}
+  ]
+}

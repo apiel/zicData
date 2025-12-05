@@ -1,0 +1,19 @@
+{
+  "engine": "Perc",
+  "engineType": "Drum",
+  "description": "Industrial percussion with bitcrushed texture",
+  "values": [
+    {"key": "ENGINE", "value": 1},
+    {"key": "PITCH", "value": 165.0},
+    {"key": "BEND", "value": 72.0},
+    {"key": "HARMONICS", "value": -35.0},
+    {"key": "NOISE_TUNE", "value": 285.0},
+    {"key": "NOISE_SHAPE", "value": 55.0},
+    {"key": "NOISE_DEC", "value": 18.0},
+    {"key": "MIX", "value": 55.0},
+    {"key": "PUNCH", "value": 92.0},
+    {"key": "DRIVE", "value": 48.0},
+    {"key": "REVERB", "value": 5.0},
+    {"key": "DURATION", "value": 125.0}
+  ]
+}

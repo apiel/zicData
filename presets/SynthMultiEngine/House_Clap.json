@@ -1,0 +1,19 @@
+{
+  "engine": "Clap",
+  "engineType": "Drum",
+  "description": "Snappy house clap with tight bursts and room reverb",
+  "values": [
+    {"key": "ENGINE", "value": 3},
+    {"key": "DECAY", "value": 22.0},
+    {"key": "BURSTS", "value": 5},
+    {"key": "SPACING", "value": 18.0},
+    {"key": "NOISE_COLOR", "value": 72.0},
+    {"key": "FILTER_FREQ", "value": 55.0},
+    {"key": "FILTER_RESO", "value": 38.0},
+    {"key": "PUNCH", "value": 85.0},
+    {"key": "TRANSIENT", "value": 45.0},
+    {"key": "BOOST", "value": 18.0},
+    {"key": "REVERB", "value": 32.0},
+    {"key": "DURATION", "value": 220.0}
+  ]
+}

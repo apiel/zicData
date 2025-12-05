@@ -1,0 +1,21 @@
+{
+  "engine": "String",
+  "engineType": "Synth",
+  "description": "Ethereal bowed string pad with vibrato",
+  "values": [
+    {"key": "ENGINE", "value": 15},
+    {"key": "PITCH", "value": 0},
+    {"key": "DECAY", "value": 0.985},
+    {"key": "TONE", "value": 42.0},
+    {"key": "SUSTAIN_EXCITE", "value": 72.0},
+    {"key": "VIBRATO_RATE", "value": 5.2},
+    {"key": "VIBRATO_DEPTH", "value": 22.0},
+    {"key": "CUTOFF", "value": -28.0},
+    {"key": "RESONANCE", "value": 12.0},
+    {"key": "FX_TYPE", "value": 18},
+    {"key": "FX_AMOUNT", "value": 55.0},
+    {"key": "FX2_TYPE", "value": 4},
+    {"key": "FX2_AMOUNT", "value": 38.0},
+    {"key": "DURATION", "value": 2500.0}
+  ]
+}

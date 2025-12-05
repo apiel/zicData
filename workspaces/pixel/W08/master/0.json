@@ -1,0 +1,14 @@
+{
+    "Tempo": {"values": [{"key": "BPM", "value": 70.0}]},
+    "Mixer": {"values": [
+        {"key": "TRACK_1", "value": 100.0},
+        {"key": "TRACK_2", "value": 100.0},
+        {"key": "TRACK_3", "value": 100.0},
+        {"key": "TRACK_4", "value": 100.0},
+        {"key": "TRACK_5", "value": 100.0},
+        {"key": "TRACK_6", "value": 100.0},
+        {"key": "TRACK_7", "value": 100.0},
+        {"key": "TRACK_8", "value": 100.0}
+    ]},
+    "SerializeTrack": {"CLIP": 0.0}
+}

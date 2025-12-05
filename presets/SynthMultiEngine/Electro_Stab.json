@@ -1,0 +1,19 @@
+{
+  "engine": "SuperSaw",
+  "engineType": "Synth",
+  "description": "Wide electro supersaw stab",
+  "values": [
+    {"key": "ENGINE", "value": 12},
+    {"key": "BODY", "value": 0},
+    {"key": "VOICES", "value": 5},
+    {"key": "DETUNE", "value": 22.0},
+    {"key": "NOISE", "value": 5.0},
+    {"key": "CUTOFF", "value": -18.0},
+    {"key": "RES", "value": 18.0},
+    {"key": "FX_TYPE", "value": 1},
+    {"key": "FX_AMOUNT", "value": 32.0},
+    {"key": "FX2_TYPE", "value": 8},
+    {"key": "FX2_AMOUNT", "value": 22.0},
+    {"key": "DURATION", "value": 520.0}
+  ]
+}

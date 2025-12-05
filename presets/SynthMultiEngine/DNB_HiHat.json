@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Closed hi-hat with sharp attack for fast DNB patterns",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 320.0},
+    {"key": "RESONATOR", "value": 0.35},
+    {"key": "TIMBRE", "value": 28.0},
+    {"key": "DRIVE", "value": -20.0},
+    {"key": "TONE_DECAY", "value": 0.015},
+    {"key": "REVERB", "value": 5.0},
+    {"key": "FM_FREQ", "value": 180.0},
+    {"key": "FM_AMP", "value": 22.0},
+    {"key": "ENV_MOD", "value": 15.0},
+    {"key": "ENV_SHAPE", "value": 0.3},
+    {"key": "DURATION", "value": 85.0}
+  ]
+}

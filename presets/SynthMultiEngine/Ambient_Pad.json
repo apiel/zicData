@@ -1,0 +1,19 @@
+{
+  "engine": "Wavetable",
+  "engineType": "Synth",
+  "description": "Evolving ambient pad with slow LFO movement",
+  "values": [
+    {"key": "ENGINE", "value": 16},
+    {"key": "PITCH", "value": 0},
+    {"key": "LFO_RATE", "value": 0.35},
+    {"key": "LFO_WAVEFORM", "value": 2},
+    {"key": "LFO_FREQ_MOD", "value": 18.0},
+    {"key": "WAVE", "value": 0},
+    {"key": "WAVE_EDIT", "value": 85},
+    {"key": "CUTOFF", "value": -35.0},
+    {"key": "RESONANCE", "value": 18.0},
+    {"key": "FX_TYPE", "value": 18},
+    {"key": "FX_AMOUNT", "value": 65.0},
+    {"key": "DURATION", "value": 2000.0}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "engine": "FM",
+  "engineType": "Synth",
+  "description": "Dark industrial FM stab with aggressive modulation",
+  "values": [
+    {"key": "ENGINE", "value": 9},
+    {"key": "BODY", "value": -5},
+    {"key": "TONE", "value": 320},
+    {"key": "SNAP", "value": 280},
+    {"key": "COLOR", "value": 58.0},
+    {"key": "PITCH_ENV", "value": 35.0},
+    {"key": "LFO_RATE", "value": 0.0},
+    {"key": "CUTOFF", "value": -12.0},
+    {"key": "RESONANCE", "value": 28.0},
+    {"key": "FX_TYPE", "value": 10},
+    {"key": "FX_AMOUNT", "value": 45.0},
+    {"key": "DURATION", "value": 420.0}
+  ]
+}

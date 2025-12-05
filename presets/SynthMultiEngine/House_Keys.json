@@ -1,0 +1,19 @@
+{
+  "engine": "FM",
+  "engineType": "Synth",
+  "description": "Classic house organ/Rhodes stab",
+  "values": [
+    {"key": "ENGINE", "value": 9},
+    {"key": "BODY", "value": 0},
+    {"key": "TONE", "value": 200},
+    {"key": "SNAP", "value": 100},
+    {"key": "COLOR", "value": 32.0},
+    {"key": "PITCH_ENV", "value": 48.0},
+    {"key": "LFO_RATE", "value": 4.5},
+    {"key": "CUTOFF", "value": -22.0},
+    {"key": "RESONANCE", "value": 15.0},
+    {"key": "FX_TYPE", "value": 16},
+    {"key": "FX_AMOUNT", "value": 18.0},
+    {"key": "DURATION", "value": 550.0}
+  ]
+}

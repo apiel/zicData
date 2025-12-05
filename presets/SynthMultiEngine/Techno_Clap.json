@@ -1,0 +1,19 @@
+{
+  "engine": "Clap",
+  "engineType": "Drum",
+  "description": "Industrial techno clap with aggressive punch",
+  "values": [
+    {"key": "ENGINE", "value": 3},
+    {"key": "DECAY", "value": 12.0},
+    {"key": "BURSTS", "value": 2},
+    {"key": "SPACING", "value": 8.0},
+    {"key": "NOISE_COLOR", "value": 92.0},
+    {"key": "FILTER_FREQ", "value": 78.0},
+    {"key": "FILTER_RESO", "value": 55.0},
+    {"key": "PUNCH", "value": 100.0},
+    {"key": "TRANSIENT", "value": 88.0},
+    {"key": "BOOST", "value": 45.0},
+    {"key": "REVERB", "value": 8.0},
+    {"key": "DURATION", "value": 140.0}
+  ]
+}

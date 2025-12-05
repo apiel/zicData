@@ -1,0 +1,19 @@
+{
+  "engine": "Perc",
+  "engineType": "Drum",
+  "description": "Soft shaker/tambourine with vintage texture",
+  "values": [
+    {"key": "ENGINE", "value": 1},
+    {"key": "PITCH", "value": 185.0},
+    {"key": "BEND", "value": 15.0},
+    {"key": "HARMONICS", "value": 18.0},
+    {"key": "NOISE_TUNE", "value": 320.0},
+    {"key": "NOISE_SHAPE", "value": -28.0},
+    {"key": "NOISE_DEC", "value": 35.0},
+    {"key": "MIX", "value": 78.0},
+    {"key": "PUNCH", "value": 35.0},
+    {"key": "DRIVE", "value": -15.0},
+    {"key": "REVERB", "value": 42.0},
+    {"key": "DURATION", "value": 210.0}
+  ]
+}

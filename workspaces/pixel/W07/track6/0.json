@@ -1,0 +1,28 @@
+{
+    "Track6": {
+        "values": [
+            {"key": "ENGINE", "value": 12.0},
+            {"key": "VAL_3", "value": 0.0},
+            {"key": "VAL_4", "value": 85.0},
+            {"key": "VAL_5", "value": 0.15},
+            {"key": "VAL_6", "value": 100.0},
+            {"key": "VAL_7", "value": 25.0},
+            {"key": "VAL_8", "value": 38.0},
+            {"key": "VAL_9", "value": 18.0},
+            {"key": "VAL_10", "value": 12.0},
+            {"key": "VAL_11", "value": 2.0},
+            {"key": "VAL_12", "value": 22.0},
+            {"key": "DURATION", "value": 280.0},
+            {"key": "AMP_MORPH", "value": 50.0}
+        ]
+    },
+    "Sequencer": {"STATUS": 1.0, "STEP_COUNT": 32, "STEPS": [
+        {"position": 0, "len": 2, "enabled": true, "note": 65, "velocity": 0.85, "condition": "---", "motion": "---"},
+        {"position": 6, "len": 1, "enabled": true, "note": 63, "velocity": 0.75, "condition": "---", "motion": "---"},
+        {"position": 12, "len": 2, "enabled": true, "note": 60, "velocity": 0.8, "condition": "---", "motion": "---"},
+        {"position": 16, "len": 2, "enabled": true, "note": 65, "velocity": 0.85, "condition": "---", "motion": "---"},
+        {"position": 22, "len": 1, "enabled": true, "note": 63, "velocity": 0.75, "condition": "---", "motion": "---"},
+        {"position": 26, "len": 2, "enabled": true, "note": 68, "velocity": 0.7, "condition": "Pair", "motion": "---"}
+    ]},
+    "SerializeTrack": {"CLIP": 0.0}
+}

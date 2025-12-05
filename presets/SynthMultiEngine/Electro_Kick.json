@@ -1,0 +1,19 @@
+{
+  "engine": "Kick",
+  "engineType": "Drum",
+  "description": "Punchy electro kick with sharp attack and drive",
+  "values": [
+    {"key": "ENGINE", "value": 4},
+    {"key": "ENVELOPE_SHAPE", "value": 68.0},
+    {"key": "WAVEFORM_TYPE", "value": 45},
+    {"key": "PITCH", "value": 3},
+    {"key": "TRANSIENT", "value": 90.0},
+    {"key": "CUTOFF", "value": -12.0},
+    {"key": "RESONANCE", "value": 8.0},
+    {"key": "FX_TYPE", "value": 8},
+    {"key": "FX_AMOUNT", "value": 38.0},
+    {"key": "FX2_TYPE", "value": 9},
+    {"key": "FX2_AMOUNT", "value": 28.0},
+    {"key": "DURATION", "value": 340.0}
+  ]
+}

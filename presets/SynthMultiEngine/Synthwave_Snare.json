@@ -1,0 +1,19 @@
+{
+  "engine": "Clap",
+  "engineType": "Drum",
+  "description": "Big gated 80s snare with massive reverb",
+  "values": [
+    {"key": "ENGINE", "value": 3},
+    {"key": "DECAY", "value": 25.0},
+    {"key": "BURSTS", "value": 6},
+    {"key": "SPACING", "value": 22.0},
+    {"key": "NOISE_COLOR", "value": 68.0},
+    {"key": "FILTER_FREQ", "value": 48.0},
+    {"key": "FILTER_RESO", "value": 32.0},
+    {"key": "PUNCH", "value": 78.0},
+    {"key": "TRANSIENT", "value": 55.0},
+    {"key": "BOOST", "value": 25.0},
+    {"key": "REVERB", "value": 65.0},
+    {"key": "DURATION", "value": 320.0}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "engine": "Wavetable",
+  "engineType": "Synth",
+  "values": [
+    {"key": "ENGINE", "value": 10},
+    {"key": "PITCH", "value": 0.0},
+    {"key": "LFO_RATE", "value": 4.0},
+    {"key": "LFO_WAVEFORM", "value": 0},
+    {"key": "LFO_FREQ_MOD", "value": 15.0},
+    {"key": "WAVE", "value": 0},
+    {"key": "WAVE_EDIT", "value": 10.0},
+    {"key": "CUTOFF", "value": 20.0},
+    {"key": "RESONANCE", "value": 40.0},
+    {"key": "FX_TYPE", "value": 0},
+    {"key": "FX_AMOUNT", "value": 0.0},
+    {"key": "DURATION", "value": 60.0}
+  ]
+}

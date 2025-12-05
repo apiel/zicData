@@ -1,0 +1,19 @@
+{
+  "engine": "FM",
+  "engineType": "Synth",
+  "description": "Aggressive electro FM lead with bite",
+  "values": [
+    {"key": "ENGINE", "value": 9},
+    {"key": "BODY", "value": 0},
+    {"key": "TONE", "value": 280},
+    {"key": "SNAP", "value": 220},
+    {"key": "COLOR", "value": 48.0},
+    {"key": "PITCH_ENV", "value": 42.0},
+    {"key": "LFO_RATE", "value": 0.0},
+    {"key": "CUTOFF", "value": -8.0},
+    {"key": "RESONANCE", "value": 22.0},
+    {"key": "FX_TYPE", "value": 8},
+    {"key": "FX_AMOUNT", "value": 35.0},
+    {"key": "DURATION", "value": 480.0}
+  ]
+}

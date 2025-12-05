@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Open house hi-hat with shimmer and sustain",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 280.0},
+    {"key": "RESONATOR", "value": 0.65},
+    {"key": "TIMBRE", "value": 18.0},
+    {"key": "DRIVE", "value": -12.0},
+    {"key": "TONE_DECAY", "value": 0.045},
+    {"key": "REVERB", "value": 22.0},
+    {"key": "FM_FREQ", "value": 145.0},
+    {"key": "FM_AMP", "value": 15.0},
+    {"key": "ENV_MOD", "value": 8.0},
+    {"key": "ENV_SHAPE", "value": 0.55},
+    {"key": "DURATION", "value": 180.0}
+  ]
+}

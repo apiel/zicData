@@ -1,0 +1,19 @@
+{
+  "engine": "Bass",
+  "engineType": "Synth",
+  "description": "Deep sub drone with slow filter movement",
+  "values": [
+    {"key": "ENGINE", "value": 14},
+    {"key": "PITCH", "value": -12},
+    {"key": "BEND", "value": 0.0},
+    {"key": "WAVEFORM_TYPE", "value": 0},
+    {"key": "SHAPE", "value": 0.0},
+    {"key": "CUTOFF", "value": 25.0},
+    {"key": "RESONANCE", "value": 12.0},
+    {"key": "FX_TYPE", "value": 1},
+    {"key": "FX_AMOUNT", "value": 45.0},
+    {"key": "FX2_TYPE", "value": 22},
+    {"key": "FX2_AMOUNT", "value": 28.0},
+    {"key": "DURATION", "value": 1800.0}
+  ]
+}

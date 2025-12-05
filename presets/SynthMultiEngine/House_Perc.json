@@ -1,0 +1,19 @@
+{
+  "engine": "Perc",
+  "engineType": "Drum",
+  "description": "Funky conga/bongo percussion hit",
+  "values": [
+    {"key": "ENGINE", "value": 1},
+    {"key": "PITCH", "value": 145.0},
+    {"key": "BEND", "value": 35.0},
+    {"key": "HARMONICS", "value": 45.0},
+    {"key": "NOISE_TUNE", "value": 250.0},
+    {"key": "NOISE_SHAPE", "value": -15.0},
+    {"key": "NOISE_DEC", "value": 12.0},
+    {"key": "MIX", "value": 28.0},
+    {"key": "PUNCH", "value": 65.0},
+    {"key": "DRIVE", "value": 8.0},
+    {"key": "REVERB", "value": 25.0},
+    {"key": "DURATION", "value": 185.0}
+  ]
+}

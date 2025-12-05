@@ -1,0 +1,18 @@
+{
+  "engine": "SuperSaw",
+  "engineType": "Synth",
+  "values": [
+    {"key": "ENGINE", "value": 13},
+    {"key": "BODY", "value": 0.0},
+    {"key": "VOICES", "value": 5},
+    {"key": "DETUNE", "value": 12.0},
+    {"key": "NOISE", "value": 0.0},
+    {"key": "CUTOFF", "value": -25.0},
+    {"key": "RES", "value": 20.0},
+    {"key": "FX_TYPE", "value": 2},
+    {"key": "FX_AMOUNT", "value": 50.0},
+    {"key": "FX2_TYPE", "value": 0},
+    {"key": "FX2_AMOUNT", "value": 0.0},
+    {"key": "DURATION", "value": 75.0}
+  ]
+}

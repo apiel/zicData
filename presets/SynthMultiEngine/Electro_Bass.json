@@ -1,0 +1,19 @@
+{
+  "engine": "Bass",
+  "engineType": "Synth",
+  "description": "Punchy electro bass with filter snap",
+  "values": [
+    {"key": "ENGINE", "value": 14},
+    {"key": "PITCH", "value": 0},
+    {"key": "BEND", "value": 22.0},
+    {"key": "WAVEFORM_TYPE", "value": 1},
+    {"key": "SHAPE", "value": 28.0},
+    {"key": "CUTOFF", "value": 58.0},
+    {"key": "RESONANCE", "value": 45.0},
+    {"key": "FX_TYPE", "value": 8},
+    {"key": "FX_AMOUNT", "value": 28.0},
+    {"key": "FX2_TYPE", "value": 9},
+    {"key": "FX2_AMOUNT", "value": 35.0},
+    {"key": "DURATION", "value": 350.0}
+  ]
+}

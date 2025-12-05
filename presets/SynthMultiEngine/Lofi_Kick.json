@@ -1,0 +1,19 @@
+{
+  "engine": "Kick",
+  "engineType": "Drum",
+  "description": "Warm dusty lofi kick with soft transient and vinyl character",
+  "values": [
+    {"key": "ENGINE", "value": 4},
+    {"key": "ENVELOPE_SHAPE", "value": 38.0},
+    {"key": "WAVEFORM_TYPE", "value": 10},
+    {"key": "PITCH", "value": -2},
+    {"key": "TRANSIENT", "value": 45.0},
+    {"key": "CUTOFF", "value": -45.0},
+    {"key": "RESONANCE", "value": 18.0},
+    {"key": "FX_TYPE", "value": 13},
+    {"key": "FX_AMOUNT", "value": 15.0},
+    {"key": "FX2_TYPE", "value": 7},
+    {"key": "FX2_AMOUNT", "value": 22.0},
+    {"key": "DURATION", "value": 480.0}
+  ]
+}

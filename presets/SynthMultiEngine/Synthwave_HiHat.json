@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Bright 80s hi-hat with shimmer",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 295.0},
+    {"key": "RESONATOR", "value": 0.58},
+    {"key": "TIMBRE", "value": 22.0},
+    {"key": "DRIVE", "value": -8.0},
+    {"key": "TONE_DECAY", "value": 0.038},
+    {"key": "REVERB", "value": 35.0},
+    {"key": "FM_FREQ", "value": 165.0},
+    {"key": "FM_AMP", "value": 18.0},
+    {"key": "ENV_MOD", "value": 12.0},
+    {"key": "ENV_SHAPE", "value": 0.48},
+    {"key": "DURATION", "value": 145.0}
+  ]
+}

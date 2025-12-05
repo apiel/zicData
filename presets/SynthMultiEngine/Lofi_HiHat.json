@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Muted brushy hi-hat with vinyl warmth",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 220.0},
+    {"key": "RESONATOR", "value": 0.42},
+    {"key": "TIMBRE", "value": 8.0},
+    {"key": "DRIVE", "value": -35.0},
+    {"key": "TONE_DECAY", "value": 0.055},
+    {"key": "REVERB", "value": 28.0},
+    {"key": "FM_FREQ", "value": 95.0},
+    {"key": "FM_AMP", "value": 8.0},
+    {"key": "ENV_MOD", "value": 5.0},
+    {"key": "ENV_SHAPE", "value": 0.72},
+    {"key": "DURATION", "value": 165.0}
+  ]
+}

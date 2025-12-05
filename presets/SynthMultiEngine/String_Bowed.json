@@ -1,0 +1,19 @@
+{
+  "engine": "String",
+  "engineType": "Synth",
+  "values": [
+    {"key": "ENGINE", "value": 17},
+    {"key": "PITCH", "value": 0.0},
+    {"key": "DECAY", "value": 0.98},
+    {"key": "TONE", "value": 80.0},
+    {"key": "SUSTAIN_EXCITE", "value": 70.0},
+    {"key": "VIBRATO_RATE", "value": 6.0},
+    {"key": "VIBRATO_DEPTH", "value": 25.0},
+    {"key": "CUTOFF", "value": 0.0},
+    {"key": "RESONANCE", "value": 10.0},
+    {"key": "FX_TYPE", "value": 2},
+    {"key": "FX_AMOUNT", "value": 50.0},
+    {"key": "FX2_TYPE", "value": 0},
+    {"key": "FX2_AMOUNT", "value": 0.0}
+  ]
+}

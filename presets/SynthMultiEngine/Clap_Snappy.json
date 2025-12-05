@@ -1,0 +1,18 @@
+{
+  "engine": "Clap",
+  "engineType": "Drum",
+  "values": [
+    {"key": "ENGINE", "value": 1},
+    {"key": "DECAY", "value": 20.0},
+    {"key": "BURSTS", "value": 4},
+    {"key": "SPACING", "value": 25.0},
+    {"key": "NOISE_COLOR", "value": 90.0},
+    {"key": "FILTER_FREQ", "value": 80.0},
+    {"key": "FILTER_RESO", "value": 50.0},
+    {"key": "PUNCH", "value": 80.0},
+    {"key": "TRANSIENT", "value": 60.0},
+    {"key": "BOOST", "value": 50.0},
+    {"key": "REVERB", "value": 5.0},
+    {"key": "DURATION", "value": 35.0}
+  ]
+}

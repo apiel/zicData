@@ -1,0 +1,19 @@
+{
+  "engine": "Kick",
+  "engineType": "Drum",
+  "description": "Punchy 80s gated kick with compression",
+  "values": [
+    {"key": "ENGINE", "value": 4},
+    {"key": "ENVELOPE_SHAPE", "value": 62.0},
+    {"key": "WAVEFORM_TYPE", "value": 35},
+    {"key": "PITCH", "value": 1},
+    {"key": "TRANSIENT", "value": 82.0},
+    {"key": "CUTOFF", "value": -15.0},
+    {"key": "RESONANCE", "value": 10.0},
+    {"key": "FX_TYPE", "value": 9},
+    {"key": "FX_AMOUNT", "value": 48.0},
+    {"key": "FX2_TYPE", "value": 1},
+    {"key": "FX2_AMOUNT", "value": 18.0},
+    {"key": "DURATION", "value": 380.0}
+  ]
+}

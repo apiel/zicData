@@ -1,0 +1,18 @@
+{
+  "engine": "FM",
+  "engineType": "Synth",
+  "values": [
+    {"key": "ENGINE", "value": 9},
+    {"key": "BODY", "value": 0.0},
+    {"key": "TONE", "value": 180.0},
+    {"key": "SNAP", "value": 220.0},
+    {"key": "COLOR", "value": 55.0},
+    {"key": "PITCH_ENV", "value": 45.0},
+    {"key": "LFO_RATE", "value": 0.0},
+    {"key": "CUTOFF", "value": 40.0},
+    {"key": "RESONANCE", "value": 50.0},
+    {"key": "FX_TYPE", "value": 0},
+    {"key": "FX_AMOUNT", "value": 0.0},
+    {"key": "DURATION", "value": 35.0}
+  ]
+}

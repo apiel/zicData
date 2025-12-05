@@ -1,0 +1,19 @@
+{
+  "engine": "SuperSaw",
+  "engineType": "Synth",
+  "description": "Lush 80s supersaw pad with wide stereo spread",
+  "values": [
+    {"key": "ENGINE", "value": 12},
+    {"key": "BODY", "value": 0},
+    {"key": "VOICES", "value": 7},
+    {"key": "DETUNE", "value": 28.0},
+    {"key": "NOISE", "value": 0.0},
+    {"key": "CUTOFF", "value": -25.0},
+    {"key": "RES", "value": 15.0},
+    {"key": "FX_TYPE", "value": 1},
+    {"key": "FX_AMOUNT", "value": 55.0},
+    {"key": "FX2_TYPE", "value": 4},
+    {"key": "FX2_AMOUNT", "value": 35.0},
+    {"key": "DURATION", "value": 1200.0}
+  ]
+}

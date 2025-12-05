@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Sharp electro hi-hat with bite",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 335.0},
+    {"key": "RESONATOR", "value": 0.32},
+    {"key": "TIMBRE", "value": 32.0},
+    {"key": "DRIVE", "value": 12.0},
+    {"key": "TONE_DECAY", "value": 0.018},
+    {"key": "REVERB", "value": 8.0},
+    {"key": "FM_FREQ", "value": 195.0},
+    {"key": "FM_AMP", "value": 28.0},
+    {"key": "ENV_MOD", "value": 18.0},
+    {"key": "ENV_SHAPE", "value": 0.32},
+    {"key": "DURATION", "value": 95.0}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "engine": "Kick",
+  "engineType": "Drum",
+  "description": "Boomy 808-style kick with long tail",
+  "values": [
+    {"key": "ENGINE", "value": 4},
+    {"key": "ENVELOPE_SHAPE", "value": 72.0},
+    {"key": "WAVEFORM_TYPE", "value": 0},
+    {"key": "PITCH", "value": -8},
+    {"key": "TRANSIENT", "value": 35.0},
+    {"key": "CUTOFF", "value": -15.0},
+    {"key": "RESONANCE", "value": 42.0},
+    {"key": "FX_TYPE", "value": 9},
+    {"key": "FX_AMOUNT", "value": 38.0},
+    {"key": "FX2_TYPE", "value": 8},
+    {"key": "FX2_AMOUNT", "value": 22.0},
+    {"key": "DURATION", "value": 580.0}
+  ]
+}

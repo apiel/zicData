@@ -1,0 +1,18 @@
+{
+  "engine": "Perc",
+  "engineType": "Drum",
+  "values": [
+    {"key": "ENGINE", "value": 4},
+    {"key": "PITCH", "value": 200.0},
+    {"key": "BEND", "value": 30.0},
+    {"key": "HARMONICS", "value": 0.0},
+    {"key": "NOISE_TUNE", "value": 300.0},
+    {"key": "NOISE_SHAPE", "value": -20.0},
+    {"key": "NOISE_DEC", "value": 0.15},
+    {"key": "MIX", "value": 60.0},
+    {"key": "PUNCH", "value": 50.0},
+    {"key": "DRIVE", "value": 0.0},
+    {"key": "REVERB", "value": 15.0},
+    {"key": "DURATION", "value": 50.0}
+  ]
+}

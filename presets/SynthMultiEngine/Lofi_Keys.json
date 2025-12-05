@@ -1,0 +1,19 @@
+{
+  "engine": "FM",
+  "engineType": "Synth",
+  "description": "Warm Rhodes-style electric piano with gentle wobble",
+  "values": [
+    {"key": "ENGINE", "value": 9},
+    {"key": "BODY", "value": 0},
+    {"key": "TONE", "value": 198},
+    {"key": "SNAP", "value": 85},
+    {"key": "COLOR", "value": 25.0},
+    {"key": "PITCH_ENV", "value": 52.0},
+    {"key": "LFO_RATE", "value": 3.2},
+    {"key": "CUTOFF", "value": -35.0},
+    {"key": "RESONANCE", "value": 12.0},
+    {"key": "FX_TYPE", "value": 13},
+    {"key": "FX_AMOUNT", "value": 12.0},
+    {"key": "DURATION", "value": 720.0}
+  ]
+}

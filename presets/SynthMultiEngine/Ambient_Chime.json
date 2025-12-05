@@ -1,0 +1,19 @@
+{
+  "engine": "Metalic",
+  "engineType": "Drum",
+  "description": "Ethereal chime with shimmer reverb",
+  "values": [
+    {"key": "ENGINE", "value": 0},
+    {"key": "BASE_FREQ", "value": 245.0},
+    {"key": "RESONATOR", "value": 0.95},
+    {"key": "TIMBRE", "value": 10.0},
+    {"key": "DRIVE", "value": -32.0},
+    {"key": "TONE_DECAY", "value": 0.085},
+    {"key": "REVERB", "value": 58.0},
+    {"key": "FM_FREQ", "value": 125.0},
+    {"key": "FM_AMP", "value": 22.0},
+    {"key": "ENV_MOD", "value": 5.0},
+    {"key": "ENV_SHAPE", "value": 0.78},
+    {"key": "DURATION", "value": 950.0}
+  ]
+}
