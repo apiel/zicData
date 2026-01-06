@@ -7,153 +7,9 @@
                 "enabled": true,
                 "len": 1,
                 "motion": "---",
-                "note": 48,
-                "position": 129,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 3,
-                "motion": "---",
-                "note": 57,
-                "position": 136,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 50,
-                "position": 142,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 2,
-                "motion": "---",
-                "note": 55,
-                "position": 149,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 2,
-                "motion": "---",
-                "note": 52,
-                "position": 155,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 2,
-                "motion": "---",
-                "note": 57,
-                "position": 163,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 2,
-                "motion": "---",
-                "note": 48,
-                "position": 171,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 50,
-                "position": 705,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 53,
-                "position": 710,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 48,
-                "position": 713,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 2,
-                "motion": "---",
-                "note": 53,
-                "position": 716,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 2,
-                "motion": "---",
-                "note": 50,
-                "position": 719,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 53,
-                "position": 722,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 48,
-                "position": 725,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 52,
-                "position": 728,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 50,
-                "position": 731,
-                "velocity": 1.0
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 53,
-                "position": 734,
-                "velocity": 1.0
+                "note": 60,
+                "position": 0,
+                "velocity": 0.809999942779541
             },
             {
                 "condition": "---",
@@ -161,7 +17,25 @@
                 "len": 1,
                 "motion": "---",
                 "note": 60,
-                "position": 0,
+                "position": 4,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 8,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 12,
                 "velocity": 0.800000011920929
             },
             {
@@ -179,7 +53,88 @@
                 "len": 1,
                 "motion": "---",
                 "note": 60,
+                "position": 20,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 24,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 28,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "Impair",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 30,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "40%",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 31,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "20%",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 29,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "Pair",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
                 "position": 32,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 36,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 40,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 44,
                 "velocity": 0.800000011920929
             },
             {
@@ -197,25 +152,16 @@
                 "len": 1,
                 "motion": "---",
                 "note": 60,
-                "position": 62,
+                "position": 56,
                 "velocity": 0.800000011920929
             },
             {
-                "condition": "---",
+                "condition": "Pair",
                 "enabled": true,
                 "len": 1,
                 "motion": "---",
                 "note": 60,
-                "position": 61,
-                "velocity": 0.800000011920929
-            },
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 60,
-                "position": 60,
+                "position": 52,
                 "velocity": 0.800000011920929
             }
         ],
@@ -224,18 +170,13 @@
     "SerializeTrack": {
         "CLIP": 0.0
     },
-    "Track2": {
-        "engine": "String",
+    "Track1": {
+        "engine": "Kick",
         "engineType": "Drum",
-        "sampleFile": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav",
         "values": [
             {
-                "key": "BROWSER",
-                "value": 1.0
-            },
-            {
                 "key": "ENGINE",
-                "value": 7.0
+                "value": 4.0
             },
             {
                 "key": "VAL_1",
@@ -251,15 +192,15 @@
             },
             {
                 "key": "VAL_4",
-                "value": 0.9800000190734863
+                "value": 197.0
             },
             {
                 "key": "VAL_5",
-                "value": 50.0
+                "value": -14.0
             },
             {
                 "key": "VAL_6",
-                "value": 50.0
+                "value": 19.0
             },
             {
                 "key": "VAL_7",
@@ -267,11 +208,11 @@
             },
             {
                 "key": "VAL_8",
-                "value": 0.5
+                "value": 13.0
             },
             {
                 "key": "VAL_9",
-                "value": 0.0
+                "value": 24.0
             },
             {
                 "key": "VAL_10",

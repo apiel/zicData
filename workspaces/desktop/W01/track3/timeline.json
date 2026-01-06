@@ -1,5 +1,4 @@
 [
-    { "step": 0, "type": "LOAD_CLIP", "value": 0 },
-    { "step": 72, "type": "LOAD_CLIP", "value": 6 },
-    { "step": 106, "type": "LOOP_BACK", "value": 0 }
+    { "step": 0, "clip": 0, "loop": 1, "goto": -1 },
+    { "step": 72, "clip": 6, "loop": 1, "goto": 0 }
 ]

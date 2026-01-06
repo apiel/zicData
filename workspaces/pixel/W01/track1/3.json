@@ -182,7 +182,8 @@
                 "position": 62,
                 "velocity": 0.5900001525878906
             }
-        ]
+        ],
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 3.0

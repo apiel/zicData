@@ -1,50 +1,56 @@
 {
     "Sequencer": {
         "STATUS": 1.0,
-        "STEPS": null
+        "STEPS": null,
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 0.0
     },
     "Track5": {
-        "engine": "String",
-        "engineType": "Synth",
+        "engine": "Grain",
+        "engineType": "Sample",
+        "sampleFile": "0_0_1_1_623667__13744718__bell-loop.wav",
         "values": [
             {
+                "key": "BROWSER",
+                "value": 1.0
+            },
+            {
                 "key": "ENGINE",
-                "value": 17.0
+                "value": 19.0
             },
             {
                 "key": "VAL_1",
-                "value": 340.0
+                "value": 2.0
             },
             {
                 "key": "VAL_2",
-                "value": 1040.0
-            },
-            {
-                "key": "VAL_3",
-                "value": -6.0
-            },
-            {
-                "key": "VAL_4",
-                "value": 0.9900000095367432
-            },
-            {
-                "key": "VAL_5",
-                "value": 50.0
-            },
-            {
-                "key": "VAL_6",
-                "value": 28.0
-            },
-            {
-                "key": "VAL_7",
                 "value": 0.0
             },
             {
+                "key": "VAL_3",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_4",
+                "value": 1.0
+            },
+            {
+                "key": "VAL_5",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_6",
+                "value": 100.0
+            },
+            {
+                "key": "VAL_7",
+                "value": 50.0
+            },
+            {
                 "key": "VAL_8",
-                "value": 40.0
+                "value": 1.0
             },
             {
                 "key": "VAL_9",

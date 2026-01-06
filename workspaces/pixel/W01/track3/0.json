@@ -1,7 +1,81 @@
 {
     "Sequencer": {
         "STATUS": 1.0,
-        "STEPS": null
+        "STEPS": [
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 4,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 12,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 20,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 28,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 36,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 44,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 52,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 60,
+                "velocity": 0.800000011920929
+            }
+        ],
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 0.0
@@ -9,7 +83,12 @@
     "Track3": {
         "engine": "Clap",
         "engineType": "Drum",
+        "sampleFile": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav",
         "values": [
+            {
+                "key": "BROWSER",
+                "value": 1.0
+            },
             {
                 "key": "ENGINE",
                 "value": 3.0

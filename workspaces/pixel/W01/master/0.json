@@ -20,7 +20,7 @@
             },
             {
                 "key": "TRACK_3",
-                "value": 100.0
+                "value": 25.0
             },
             {
                 "key": "MUTE_3",
@@ -28,7 +28,7 @@
             },
             {
                 "key": "TRACK_4",
-                "value": 100.0
+                "value": 48.0
             },
             {
                 "key": "MUTE_4",
@@ -76,6 +76,14 @@
             {
                 "key": "BPM",
                 "value": 180.0
+            },
+            {
+                "key": "LOOP_START",
+                "value": 0.0
+            },
+            {
+                "key": "LOOP_LENGTH",
+                "value": 0.0
             }
         ]
     },

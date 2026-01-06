@@ -1,25 +1,15 @@
 {
     "Sequencer": {
-        "STATUS": 0.0,
-        "STEPS": [
-            {
-                "condition": "---",
-                "enabled": true,
-                "len": 1,
-                "motion": "---",
-                "note": 60,
-                "position": 0,
-                "velocity": 0.800000011920929
-            }
-        ],
+        "STATUS": 1.0,
+        "STEPS": null,
         "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 0.0
     },
-    "Track6": {
-        "engine": "Wavtabl2",
-        "engineType": "Synth",
+    "Track7": {
+        "engine": "Metalic",
+        "engineType": "Drum",
         "sampleFile": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav",
         "values": [
             {
@@ -28,43 +18,43 @@
             },
             {
                 "key": "ENGINE",
-                "value": 17.0
-            },
-            {
-                "key": "VAL_1",
-                "value": 50.0
-            },
-            {
-                "key": "VAL_2",
-                "value": 300.0
-            },
-            {
-                "key": "VAL_3",
-                "value": -21.0
-            },
-            {
-                "key": "VAL_4",
-                "value": 4.799995422363281
-            },
-            {
-                "key": "VAL_5",
                 "value": 0.0
             },
             {
+                "key": "VAL_1",
+                "value": 500.0
+            },
+            {
+                "key": "VAL_2",
+                "value": 0.0
+            },
+            {
+                "key": "VAL_3",
+                "value": 100.0
+            },
+            {
+                "key": "VAL_4",
+                "value": 0.800000011920929
+            },
+            {
+                "key": "VAL_5",
+                "value": 5.0
+            },
+            {
                 "key": "VAL_6",
-                "value": 19.0
+                "value": 0.0
             },
             {
                 "key": "VAL_7",
-                "value": 32.0
+                "value": 0.019999999552965164
             },
             {
                 "key": "VAL_8",
-                "value": 31.0
+                "value": 0.30000001192092896
             },
             {
                 "key": "VAL_9",
-                "value": 88.0
+                "value": 50.0
             },
             {
                 "key": "VAL_10",
@@ -72,11 +62,11 @@
             },
             {
                 "key": "VAL_11",
-                "value": 1.0
+                "value": 0.0
             },
             {
                 "key": "VAL_12",
-                "value": 62.0
+                "value": 0.5
             }
         ]
     }
