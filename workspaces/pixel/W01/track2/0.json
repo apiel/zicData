@@ -1,6 +1,7 @@
 {
     "Sequencer": {
-        "STATUS": 1.0,
+        "GENERATOR": 0.0,
+        "STATUS": 0.0,
         "STEPS": [
             {
                 "condition": "---",
@@ -235,7 +236,7 @@
             },
             {
                 "key": "ENGINE",
-                "value": 7.0
+                "value": 15.0
             },
             {
                 "key": "VAL_1",

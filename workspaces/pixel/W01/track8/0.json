@@ -1,5 +1,6 @@
 {
     "Sequencer": {
+        "GENERATOR": 0.0,
         "STATUS": 1.0,
         "STEPS": null,
         "STEP_COUNT": 64.0

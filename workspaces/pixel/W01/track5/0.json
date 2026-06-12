@@ -1,15 +1,161 @@
 {
     "Sequencer": {
+        "GENERATOR": 0.0,
         "STATUS": 1.0,
-        "STEPS": null,
+        "STEPS": [
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 8,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 10,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 12,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 14,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 24,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 26,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 28,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 30,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 40,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 42,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 44,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 46,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 56,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 58,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 60,
+                "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 62,
+                "velocity": 0.800000011920929
+            }
+        ],
         "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 0.0
     },
     "Track5": {
-        "engine": "Grain",
-        "engineType": "Sample",
+        "engine": "Bass",
+        "engineType": "Synth",
         "sampleFile": "0_0_1_1_623667__13744718__bell-loop.wav",
         "values": [
             {
@@ -18,15 +164,15 @@
             },
             {
                 "key": "ENGINE",
-                "value": 19.0
+                "value": 24.0
             },
             {
                 "key": "VAL_1",
-                "value": 2.0
+                "value": 50.0
             },
             {
                 "key": "VAL_2",
-                "value": 0.0
+                "value": 90.0
             },
             {
                 "key": "VAL_3",
@@ -34,39 +180,39 @@
             },
             {
                 "key": "VAL_4",
-                "value": 1.0
+                "value": 0.0
             },
             {
                 "key": "VAL_5",
-                "value": 0.0
+                "value": 4.0
             },
             {
                 "key": "VAL_6",
-                "value": 100.0
+                "value": 29.0
             },
             {
                 "key": "VAL_7",
-                "value": 50.0
+                "value": 73.0
             },
             {
                 "key": "VAL_8",
-                "value": 1.0
+                "value": 35.0
             },
             {
                 "key": "VAL_9",
-                "value": 0.0
+                "value": 1.0
             },
             {
                 "key": "VAL_10",
-                "value": 0.0
+                "value": 26.0
             },
             {
                 "key": "VAL_11",
-                "value": 0.0
+                "value": 8.0
             },
             {
                 "key": "VAL_12",
-                "value": 0.0
+                "value": 60.0
             }
         ]
     }

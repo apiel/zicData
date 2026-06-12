@@ -1,61 +1,6 @@
 {
-    "Track1": {
-        "values": [
-            {
-                "key": "ENGINE",
-                "value": 4.0
-            },
-            {
-                "key": "VAL_3",
-                "value": 66.84999084472656
-            },
-            {
-                "key": "VAL_4",
-                "value": 119.0
-            },
-            {
-                "key": "VAL_5",
-                "value": -10.0
-            },
-            {
-                "key": "VAL_6",
-                "value": 19.0
-            },
-            {
-                "key": "VAL_7",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_8",
-                "value": 13.0
-            },
-            {
-                "key": "VAL_9",
-                "value": 96.00001525878906
-            },
-            {
-                "key": "VAL_10",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_11",
-                "value": 0.0
-            },
-            {
-                "key": "VAL_12",
-                "value": 0.0
-            },
-            {
-                "key": "DURATION",
-                "value": 1580.0
-            },
-            {
-                "key": "AMP_MORPH",
-                "value": 22.0
-            }
-        ]
-    },
     "Sequencer": {
+        "GENERATOR": 0.0,
         "STATUS": 1.0,
         "STEPS": [
             {
@@ -212,17 +157,90 @@
                 "velocity": 0.800000011920929
             },
             {
-                "condition": "Pair",
+                "condition": "---",
                 "enabled": true,
                 "len": 1,
                 "motion": "---",
                 "note": 60,
                 "position": 52,
                 "velocity": 0.800000011920929
+            },
+            {
+                "condition": "---",
+                "enabled": true,
+                "len": 1,
+                "motion": "---",
+                "note": 60,
+                "position": 60,
+                "velocity": 0.800000011920929
             }
-        ]
+        ],
+        "STEP_COUNT": 64.0
     },
     "SerializeTrack": {
         "CLIP": 1.0
+    },
+    "Track1": {
+        "engine": "Kick",
+        "engineType": "Drum",
+        "sampleFile": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav",
+        "values": [
+            {
+                "key": "BROWSER",
+                "value": 1.0
+            },
+            {
+                "key": "ENGINE",
+                "value": 4.0
+            },
+            {
+                "key": "VAL_1",
+                "value": 570.0
+            },
+            {
+                "key": "VAL_2",
+                "value": 15.0
+            },
+            {
+                "key": "VAL_3",
+                "value": 91.7499771118164
+            },
+            {
+                "key": "VAL_4",
+                "value": 547.0
+            },
+            {
+                "key": "VAL_5",
+                "value": -13.0
+            },
+            {
+                "key": "VAL_6",
+                "value": 52.249969482421875
+            },
+            {
+                "key": "VAL_7",
+                "value": -60.0
+            },
+            {
+                "key": "VAL_8",
+                "value": 29.0
+            },
+            {
+                "key": "VAL_9",
+                "value": 9.0
+            },
+            {
+                "key": "VAL_10",
+                "value": 57.0
+            },
+            {
+                "key": "VAL_11",
+                "value": 11.0
+            },
+            {
+                "key": "VAL_12",
+                "value": 64.0
+            }
+        ]
     }
 }

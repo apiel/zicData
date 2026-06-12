@@ -1,5 +1,6 @@
 {
     "Sequencer": {
+        "GENERATOR": 0.0,
         "STATUS": 1.0,
         "STEPS": null,
         "STEP_COUNT": 64.0
@@ -8,7 +9,7 @@
         "CLIP": 2.0
     },
     "Track7": {
-        "engine": "Aditiv2",
+        "engine": "Mental",
         "engineType": "Synth",
         "sampleFile": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav",
         "values": [
@@ -18,55 +19,55 @@
             },
             {
                 "key": "ENGINE",
-                "value": 11.0
+                "value": 32.0
             },
             {
                 "key": "VAL_1",
-                "value": 50.0
+                "value": 930.0
             },
             {
                 "key": "VAL_2",
-                "value": 300.0
+                "value": -12.0
             },
             {
                 "key": "VAL_3",
-                "value": 0.0
+                "value": 2.0
             },
             {
                 "key": "VAL_4",
-                "value": 50.0
+                "value": 43.0
             },
             {
                 "key": "VAL_5",
-                "value": 50.0
+                "value": 11.699999809265137
             },
             {
                 "key": "VAL_6",
-                "value": 50.0
+                "value": 81.0
             },
             {
                 "key": "VAL_7",
-                "value": 50.0
+                "value": 0.0
             },
             {
                 "key": "VAL_8",
-                "value": 0.0
+                "value": 58.0
             },
             {
                 "key": "VAL_9",
-                "value": 0.0
+                "value": 60.0
             },
             {
                 "key": "VAL_10",
-                "value": 0.0
+                "value": 51.0
             },
             {
                 "key": "VAL_11",
-                "value": 0.0
+                "value": 7.0
             },
             {
                 "key": "VAL_12",
-                "value": 0.0
+                "value": 65.0
             }
         ]
     }
