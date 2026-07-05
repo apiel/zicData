@@ -1,33 +1,28 @@
 {
-  "bpm": 160.0,
+  "bpm": 180.0,
   "tracks": [
     {
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Sample",
           "params": {
             "attack": 0.0,
-            "compress": 0.0,
+            "compress": 96.0,
             "cutoff": 0.0,
             "delayRnd": 0.0,
             "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
+            "detunMode": 1.0,
             "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
+            "dir": 1.0,
             "dlyFdbk": 0.0,
             "dlyMix": 0.0,
             "dlyTime": 125.0,
-            "end": 100.0,
-            "fxAmt": 0.0,
+            "end": 3.0,
+            "fxAmt": 64.0,
             "fxType": {
-              "f": 0.0,
-              "s": "OFF"
+              "f": 8.0,
+              "s": "Drive"
             },
             "grainDelay": 50.0,
             "grainSize": 80.0,
@@ -40,13 +35,507 @@
               "s": "EG Filter"
             },
             "pitchRnd": 0.0,
-            "release": 0.0,
+            "release": 59.5,
             "res": 0.0,
             "rvbDamp": 50.0,
             "rvbMix": 0.0,
             "sample": {
+              "f": 108.0,
+              "s": "tekno-kicks-190bpm.wav"
+            },
+            "start": 0.0,
+            "transpose": 0.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        },
+        {
+          "engine": "Sample",
+          "params": {
+            "attack": 0.0,
+            "compress": 96.0,
+            "cutoff": 0.0,
+            "delayRnd": 0.0,
+            "density": 0.0,
+            "detunMode": 1.0,
+            "detune": 0.0,
+            "dir": 1.0,
+            "dlyFdbk": 0.0,
+            "dlyMix": 0.0,
+            "dlyTime": 125.0,
+            "end": 1.5,
+            "fxAmt": 64.0,
+            "fxType": {
+              "f": 8.0,
+              "s": "Drive"
+            },
+            "grainDelay": 50.0,
+            "grainSize": 80.0,
+            "loopLength": 0.0,
+            "loopStart": 0.0,
+            "modDepth": 0.0,
+            "modSpeed": 50.0,
+            "modType": {
               "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
+              "s": "EG Filter"
+            },
+            "pitchRnd": 0.0,
+            "release": 59.5,
+            "res": 0.0,
+            "rvbDamp": 50.0,
+            "rvbMix": 0.0,
+            "sample": {
+              "f": 95.0,
+              "s": "manic-tekno-175bpm.wav"
             },
             "start": 0.0,
             "transpose": 0.0
@@ -502,81 +991,6 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     },
@@ -584,56 +998,39 @@
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Drum Sample",
           "params": {
-            "attack": 0.0,
             "compress": 0.0,
             "cutoff": 0.0,
-            "delayRnd": 0.0,
-            "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
-            "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
-            "dlyFdbk": 0.0,
-            "dlyMix": 0.0,
-            "dlyTime": 125.0,
-            "end": 100.0,
+            "end": 3.1000003814697266,
             "fxAmt": 0.0,
             "fxType": {
               "f": 0.0,
               "s": "OFF"
             },
-            "grainDelay": 50.0,
-            "grainSize": 80.0,
-            "loopLength": 0.0,
-            "loopStart": 0.0,
-            "modDepth": 0.0,
-            "modSpeed": 50.0,
-            "modType": {
-              "f": 0.0,
-              "s": "EG Filter"
-            },
-            "pitchRnd": 0.0,
-            "release": 0.0,
+            "pitBendAmt": 0.0,
+            "pitBendDec": 25.0,
+            "pitStartAmt": -0.826446533203125,
+            "pitSweepAmt": 1.1583030223846436,
+            "pitSweepDec": 5.0,
             "res": 0.0,
-            "rvbDamp": 50.0,
+            "rumbleAmt": 0.0,
+            "rumbleFilt": 0.0,
+            "rumbleGap": 10.0,
             "rvbMix": 0.0,
             "sample": {
-              "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
+              "f": 108.0,
+              "s": "tekno-kicks-190bpm.wav"
             },
             "start": 0.0,
+            "transClip": 0.0,
+            "transRel": 0.0,
             "transpose": 0.0
           },
           "saved": true,
           "sequence": [
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -661,7 +1058,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -689,7 +1086,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -717,7 +1114,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -745,7 +1142,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -773,7 +1170,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -801,7 +1198,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -829,7 +1226,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -857,7 +1254,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -885,7 +1282,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -913,7 +1310,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -941,7 +1338,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -969,7 +1366,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -997,7 +1394,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1025,7 +1422,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1053,7 +1450,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1081,81 +1478,6 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     },
@@ -1163,56 +1485,45 @@
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Drum",
           "params": {
-            "attack": 0.0,
-            "compress": 0.0,
-            "cutoff": 0.0,
-            "delayRnd": 0.0,
-            "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
-            "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
-            "dlyFdbk": 0.0,
-            "dlyMix": 0.0,
-            "dlyTime": 125.0,
-            "end": 100.0,
+            "baseFrequency": 39.0,
+            "bassBoost": 51.0,
+            "bendShape": 44.0,
+            "bodyBend": 7.0,
+            "bodyDuration": 1600.0,
+            "bodyMorph": 56.0,
+            "bodyShape": 50.0,
+            "character": 0.0,
+            "clapNoiseClr": 70.0,
+            "clapPunch": 50.0,
+            "clapTrans": 0.0,
+            "compress": 100.0,
+            "cutoff": -14.049591064453125,
+            "drive": 48.0,
             "fxAmt": 0.0,
             "fxType": {
               "f": 0.0,
               "s": "OFF"
             },
-            "grainDelay": 50.0,
-            "grainSize": 80.0,
-            "loopLength": 0.0,
-            "loopStart": 0.0,
-            "modDepth": 0.0,
-            "modSpeed": 50.0,
-            "modType": {
-              "f": 0.0,
-              "s": "EG Filter"
-            },
-            "pitchRnd": 0.0,
-            "release": 0.0,
-            "res": 0.0,
-            "rvbDamp": 50.0,
-            "rvbMix": 0.0,
-            "sample": {
-              "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
-            },
-            "start": 0.0,
-            "transpose": 0.0
+            "hiClapDuration": 150.0,
+            "hiFmAmt": 25.0,
+            "hiInharmonic": 40.0,
+            "hiNoiseMix": 20.0,
+            "hiTightness": 50.0,
+            "mix": 20.0,
+            "resonance": 29.338842391967773,
+            "ringAmount": 0.0,
+            "rvbMix": 40.0,
+            "snapTone": 0.0,
+            "sweepDep": 25.0,
+            "sweepLen": 0.0,
+            "sweepShp": 17.0
           },
           "saved": true,
           "sequence": [
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1268,7 +1579,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1324,7 +1635,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1380,7 +1691,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1436,7 +1747,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1492,7 +1803,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1548,7 +1859,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1604,7 +1915,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1660,81 +1971,6 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     },
@@ -1742,56 +1978,73 @@
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Drum",
           "params": {
-            "attack": 0.0,
-            "compress": 0.0,
+            "baseFrequency": 100.0,
+            "bassBoost": 30.0,
+            "bendShape": 0.0,
+            "bodyBend": 25.0,
+            "bodyDuration": 400.0,
+            "bodyMorph": 0.0,
+            "bodyShape": 0.0,
+            "character": 0.0,
+            "clapNoiseClr": 70.0,
+            "clapPunch": 50.0,
+            "clapTrans": 0.0,
+            "compress": 100.0,
             "cutoff": 0.0,
-            "delayRnd": 0.0,
-            "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
-            "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
-            "dlyFdbk": 0.0,
-            "dlyMix": 0.0,
-            "dlyTime": 125.0,
-            "end": 100.0,
+            "drive": 0.0,
             "fxAmt": 0.0,
             "fxType": {
               "f": 0.0,
               "s": "OFF"
             },
-            "grainDelay": 50.0,
-            "grainSize": 80.0,
-            "loopLength": 0.0,
-            "loopStart": 0.0,
-            "modDepth": 0.0,
-            "modSpeed": 50.0,
-            "modType": {
-              "f": 0.0,
-              "s": "EG Filter"
-            },
-            "pitchRnd": 0.0,
-            "release": 0.0,
-            "res": 0.0,
-            "rvbDamp": 50.0,
+            "hiClapDuration": 150.0,
+            "hiFmAmt": 25.0,
+            "hiInharmonic": 40.0,
+            "hiNoiseMix": 20.0,
+            "hiTightness": 50.0,
+            "mix": 0.0,
+            "resonance": 0.0,
+            "ringAmount": 0.0,
             "rvbMix": 0.0,
-            "sample": {
-              "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
-            },
-            "start": 0.0,
-            "transpose": 0.0
+            "snapTone": 0.0,
+            "sweepDep": 0.0,
+            "sweepLen": 0.0,
+            "sweepShp": 0.0
           },
           "saved": true,
           "sequence": [
             {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
               "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1875,7 +2128,147 @@
               "vel": 0.800000011920929
             },
             {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
               "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -1959,7 +2352,35 @@
               "vel": 0.800000011920929
             },
             {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
               "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -2001,203 +2422,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -2239,81 +2464,6 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     },
@@ -2321,48 +2471,43 @@
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Sample",
           "params": {
             "attack": 0.0,
             "compress": 0.0,
-            "cutoff": 0.0,
+            "cutoff": 36.36363220214844,
             "delayRnd": 0.0,
-            "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
-            "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
-            "dlyFdbk": 0.0,
-            "dlyMix": 0.0,
+            "density": 12.0,
+            "detunMode": 1.0,
+            "detune": 8.0,
+            "dir": 1.0,
+            "dlyFdbk": 42.0,
+            "dlyMix": 77.0,
             "dlyTime": 125.0,
             "end": 100.0,
-            "fxAmt": 0.0,
+            "fxAmt": 37.0,
             "fxType": {
-              "f": 0.0,
-              "s": "OFF"
+              "f": 19.0,
+              "s": "Tremolo"
             },
             "grainDelay": 50.0,
-            "grainSize": 80.0,
+            "grainSize": 104.0,
             "loopLength": 0.0,
             "loopStart": 0.0,
-            "modDepth": 0.0,
-            "modSpeed": 50.0,
+            "modDepth": 47.0,
+            "modSpeed": 73.0,
             "modType": {
-              "f": 0.0,
-              "s": "EG Filter"
+              "f": 29.0,
+              "s": "S&H Pitch"
             },
-            "pitchRnd": 0.0,
+            "pitchRnd": 34.0,
             "release": 0.0,
-            "res": 0.0,
-            "rvbDamp": 50.0,
-            "rvbMix": 0.0,
+            "res": 56.68449401855469,
+            "rvbDamp": 9.0,
+            "rvbMix": 60.0,
             "sample": {
-              "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
+              "f": 31.0,
+              "s": "352508__epicdude959__creepy-ghost-scream.wav"
             },
             "start": 0.0,
             "transpose": 0.0
@@ -2370,8 +2515,8 @@
           "saved": true,
           "sequence": [
             {
-              "active": false,
-              "len": 1.0,
+              "active": true,
+              "len": 8.0,
               "note": 60,
               "prob": 1.0,
               "vel": 0.800000011920929
@@ -2594,10 +2739,10 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
-              "prob": 1.0,
+              "prob": 0.5000004768371582,
               "vel": 0.800000011920929
             },
             {
@@ -2818,81 +2963,6 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     },
@@ -2900,21 +2970,16 @@
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Sample",
           "params": {
             "attack": 0.0,
             "compress": 0.0,
             "cutoff": 0.0,
             "delayRnd": 0.0,
             "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
+            "detunMode": 1.0,
             "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
+            "dir": 1.0,
             "dlyFdbk": 0.0,
             "dlyMix": 0.0,
             "dlyTime": 125.0,
@@ -3397,81 +3462,6 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     },
@@ -3479,21 +3469,16 @@
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Sample",
           "params": {
             "attack": 0.0,
             "compress": 0.0,
             "cutoff": 0.0,
             "delayRnd": 0.0,
             "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
+            "detunMode": 1.0,
             "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
+            "dir": 1.0,
             "dlyFdbk": 0.0,
             "dlyMix": 0.0,
             "dlyTime": 125.0,
@@ -3976,81 +3961,6 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     },
@@ -4058,21 +3968,16 @@
       "activeClipIdx": 0,
       "clips": [
         {
+          "engine": "Sample",
           "params": {
             "attack": 0.0,
             "compress": 0.0,
             "cutoff": 0.0,
             "delayRnd": 0.0,
             "density": 0.0,
-            "detunMode": {
-              "f": 1.0,
-              "s": "Positive"
-            },
+            "detunMode": 1.0,
             "detune": 0.0,
-            "dir": {
-              "f": 1.0,
-              "s": "Forward"
-            },
+            "dir": 1.0,
             "dlyFdbk": 0.0,
             "dlyMix": 0.0,
             "dlyTime": 125.0,
@@ -4555,84 +4460,8 @@
               "vel": 0.800000011920929
             }
           ]
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
-        },
-        {
-          "params": {},
-          "saved": false,
-          "sequence": []
         }
       ]
     }
-  ],
-  "version": 2
+  ]
 }

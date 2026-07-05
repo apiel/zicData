@@ -2516,7 +2516,7 @@
           "sequence": [
             {
               "active": true,
-              "len": 1.0,
+              "len": 8.0,
               "note": 60,
               "prob": 1.0,
               "vel": 0.800000011920929
