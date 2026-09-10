@@ -1,11 +1,127 @@
 {
   "bpm": 180.0,
+  "scatPads": [
+    {
+      "masterParamIdx": 0,
+      "mode": 0,
+      "paramValues": [
+        0.800000011920929,
+        4.0,
+        0.4000000059604645,
+        0.699999988079071
+      ],
+      "repeatRate": 2,
+      "trackIdx": 0,
+      "type": 0
+    },
+    {
+      "masterParamIdx": 0,
+      "mode": 1,
+      "paramValues": [
+        0.25,
+        0.5,
+        0.6000000238418579,
+        0.05000000074505806
+      ],
+      "repeatRate": 2,
+      "trackIdx": 0,
+      "type": 0
+    },
+    {
+      "masterParamIdx": 0,
+      "mode": 2,
+      "paramValues": [
+        0.20000000298023224,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "repeatRate": 2,
+      "trackIdx": 0,
+      "type": 0
+    },
+    {
+      "masterParamIdx": 0,
+      "mode": 3,
+      "paramValues": [
+        0.699999988079071,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "repeatRate": 2,
+      "trackIdx": 0,
+      "type": 0
+    },
+    {
+      "masterParamIdx": 0,
+      "mode": 4,
+      "paramValues": [
+        0.3499999940395355,
+        0.10000000149011612,
+        0.10000000149011612,
+        0.699999988079071
+      ],
+      "repeatRate": 2,
+      "trackIdx": 0,
+      "type": 0
+    },
+    {
+      "masterParamIdx": 0,
+      "mode": 5,
+      "paramValues": [
+        0.0,
+        0.8999999761581421,
+        0.0,
+        0.30000001192092896
+      ],
+      "repeatRate": 2,
+      "trackIdx": 0,
+      "type": 0
+    },
+    {
+      "masterParamIdx": 0,
+      "mode": 6,
+      "paramValues": [
+        0.3499999940395355,
+        0.8500000238418579,
+        0.0,
+        0.0
+      ],
+      "repeatRate": 2,
+      "trackIdx": 0,
+      "type": 0
+    },
+    {
+      "masterParamIdx": 0,
+      "mode": 0,
+      "paramValues": [
+        0.800000011920929,
+        4.0,
+        0.4000000059604645,
+        0.699999988079071
+      ],
+      "repeatRate": 8,
+      "trackIdx": 7,
+      "type": 1
+    }
+  ],
   "tracks": [
     {
-      "activeClipIdx": 0,
+      "activeClipIdx": 1,
+      "chain": [
+        0,
+        0,
+        1,
+        -1,
+        2
+      ],
+      "chainLoopMode": 0,
       "clips": [
         {
           "engine": "Sample",
+          "name": "Kick",
+          "noteRepeat": 2,
           "params": {
             "attack": 0.0,
             "compress": 96.0,
@@ -500,6 +616,8 @@
         },
         {
           "engine": "Sample",
+          "name": "Clip 2",
+          "noteRepeat": 2,
           "params": {
             "attack": 0.0,
             "compress": 96.0,
@@ -543,7 +661,7 @@
           "saved": true,
           "sequence": [
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -571,7 +689,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -599,7 +717,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -627,7 +745,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -655,7 +773,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -683,7 +801,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -711,7 +829,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -739,7 +857,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -767,7 +885,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -795,7 +913,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -823,7 +941,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -851,7 +969,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -879,7 +997,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -907,7 +1025,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -935,7 +1053,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -963,7 +1081,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -996,9 +1114,19 @@
     },
     {
       "activeClipIdx": 0,
+      "chain": [
+        0,
+        1,
+        1,
+        2,
+        2
+      ],
+      "chainLoopMode": 0,
       "clips": [
         {
           "engine": "Drum Sample",
+          "name": "Clip 1",
+          "noteRepeat": 2,
           "params": {
             "compress": 0.0,
             "cutoff": 0.0,
@@ -1483,9 +1611,13 @@
     },
     {
       "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
       "clips": [
         {
           "engine": "Drum",
+          "name": "Clip 1",
+          "noteRepeat": 2,
           "params": {
             "baseFrequency": 39.0,
             "bassBoost": 51.0,
@@ -1976,9 +2108,13 @@
     },
     {
       "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
       "clips": [
         {
           "engine": "Drum",
+          "name": "Clip 1",
+          "noteRepeat": 2,
           "params": {
             "baseFrequency": 100.0,
             "bassBoost": 30.0,
@@ -2469,9 +2605,13 @@
     },
     {
       "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
       "clips": [
         {
           "engine": "Sample",
+          "name": "Clip 1",
+          "noteRepeat": 2,
           "params": {
             "attack": 0.0,
             "compress": 0.0,
@@ -2968,57 +3108,296 @@
     },
     {
       "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
       "clips": [
         {
-          "engine": "Sample",
+          "engine": "Void Bass",
+          "name": "Clip 1",
+          "noteRepeat": 2,
           "params": {
-            "attack": 0.0,
-            "compress": 0.0,
-            "cutoff": 0.0,
-            "delayRnd": 0.0,
-            "density": 0.0,
-            "detunMode": 1.0,
-            "detune": 0.0,
-            "dir": 1.0,
-            "dlyFdbk": 0.0,
-            "dlyMix": 0.0,
-            "dlyTime": 125.0,
-            "end": 100.0,
-            "fxAmt": 0.0,
-            "fxType": {
+            "accent": 66.0,
+            "cutoff": 33.0,
+            "decay": 360.0,
+            "dlyFdbk": 30.0,
+            "dlyMix": 54.0,
+            "dlyTime": 250.0,
+            "drive": 17.0,
+            "envMod": 40.0,
+            "frequency": 253.7101593017578,
+            "glide": 160.0,
+            "hpCut": 21.0,
+            "lfoRate": 19.650001525878906,
+            "lfoTarget": {
               "f": 0.0,
-              "s": "OFF"
+              "s": "Off"
             },
-            "grainDelay": 50.0,
-            "grainSize": 80.0,
-            "loopLength": 0.0,
-            "loopStart": 0.0,
-            "modDepth": 0.0,
-            "modSpeed": 50.0,
-            "modType": {
-              "f": 0.0,
-              "s": "EG Filter"
-            },
-            "pitchRnd": 0.0,
-            "release": 0.0,
-            "res": 0.0,
-            "rvbDamp": 50.0,
-            "rvbMix": 0.0,
-            "sample": {
-              "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
-            },
-            "start": 0.0,
-            "transpose": 0.0
+            "morph": 100.0,
+            "pulseWidth": 95.0,
+            "resonance": 87.0,
+            "subMix": 18.0,
+            "wavefold": 24.0
           },
           "saved": true,
           "sequence": [
             {
+              "active": true,
+              "len": 4.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.889397144317627
+            },
+            {
               "active": false,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
               "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 14.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.6707659959793091
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 51,
+              "prob": 1.0,
+              "vel": 0.499933123588562
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 51,
+              "prob": 1.0,
+              "vel": 0.451830118894577
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.5709197521209717
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.85518479347229
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 63,
+              "prob": 1.0,
+              "vel": 0.6271305084228516
             },
             {
               "active": false,
@@ -3126,11 +3505,276 @@
               "vel": 0.800000011920929
             },
             {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.6750955581665039
+            },
+            {
               "active": false,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
               "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 14.0,
+              "note": 47,
+              "prob": 1.0,
+              "vel": 0.6455086469650269
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.8799999952316284
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Tribe Wave",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "attack": 5.0,
+            "cutoff": 55.0,
+            "dlyFdbk": 0.0,
+            "dlyMix": 82.0,
+            "dlyTime": 125.0,
+            "fxAmt": 63.0,
+            "fxType": {
+              "f": 7.0,
+              "s": "Bass boost"
+            },
+            "gain": 56.0,
+            "glide": 185.0,
+            "modDepth": 85.0,
+            "modSpeed": 50.0,
+            "modType": {
+              "f": 18.0,
+              "s": "SawUp Flt"
+            },
+            "release": 1515.0,
+            "res": 88.0,
+            "rvbDamp": 50.0,
+            "rvbMix": 59.0,
+            "wtMorph": 22.0,
+            "wtSelect": 18.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.8727434277534485
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.5903747081756592
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.4702824354171753
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.5783456563949585
             },
             {
               "active": false,
@@ -3210,11 +3854,11 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
+              "active": true,
+              "len": 8.0,
+              "note": 48,
               "prob": 1.0,
-              "vel": 0.800000011920929
+              "vel": 0.8727434277534485
             },
             {
               "active": false,
@@ -3266,11 +3910,11 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
+              "active": true,
+              "len": 8.0,
+              "note": 48,
               "prob": 1.0,
-              "vel": 0.800000011920929
+              "vel": 0.5903747081756592
             },
             {
               "active": false,
@@ -3322,11 +3966,11 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
+              "active": true,
+              "len": 8.0,
+              "note": 55,
               "prob": 1.0,
-              "vel": 0.800000011920929
+              "vel": 0.4702824354171753
             },
             {
               "active": false,
@@ -3350,39 +3994,11 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
+              "active": true,
+              "len": 4.0,
+              "note": 55,
               "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
+              "vel": 0.5783456563949585
             },
             {
               "active": false,
@@ -3467,459 +4083,40 @@
     },
     {
       "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
       "clips": [
         {
-          "engine": "Sample",
+          "engine": "Wave Chaos",
+          "name": "Clip 1",
+          "noteRepeat": 2,
           "params": {
-            "attack": 0.0,
-            "compress": 0.0,
-            "cutoff": 0.0,
-            "delayRnd": 0.0,
-            "density": 0.0,
-            "detunMode": 1.0,
-            "detune": 0.0,
-            "dir": 1.0,
+            "chaosMix": 50.0,
+            "color": 50.0,
+            "crushFm": 0.0,
+            "cutoff": 0.20000000298023224,
             "dlyFdbk": 0.0,
             "dlyMix": 0.0,
             "dlyTime": 125.0,
-            "end": 100.0,
-            "fxAmt": 0.0,
-            "fxType": {
-              "f": 0.0,
-              "s": "OFF"
-            },
-            "grainDelay": 50.0,
-            "grainSize": 80.0,
-            "loopLength": 0.0,
-            "loopStart": 0.0,
+            "envAmt": 0.20000000298023224,
+            "filterMorph": 0.0,
+            "fmDepth": 25.0,
+            "lfoDepth": 0.0,
+            "lfoSpeed": 40.0,
             "modDepth": 0.0,
             "modSpeed": 50.0,
-            "modType": {
-              "f": 0.0,
-              "s": "EG Filter"
-            },
-            "pitchRnd": 0.0,
-            "release": 0.0,
-            "res": 0.0,
-            "rvbDamp": 50.0,
-            "rvbMix": 0.0,
-            "sample": {
-              "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
-            },
-            "start": 0.0,
-            "transpose": 0.0
+            "modType": 0.0,
+            "pitch": 60.0,
+            "pitchGlitch": 0.0,
+            "release": 200.0,
+            "resonance": 0.800000011920929,
+            "ringMod": 0.0,
+            "waveform": 0.14999999105930328
           },
           "saved": true,
           "sequence": [
             {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -3947,100 +4144,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "activeClipIdx": 0,
-      "clips": [
-        {
-          "engine": "Sample",
-          "params": {
-            "attack": 0.0,
-            "compress": 0.0,
-            "cutoff": 0.0,
-            "delayRnd": 0.0,
-            "density": 0.0,
-            "detunMode": 1.0,
-            "detune": 0.0,
-            "dir": 1.0,
-            "dlyFdbk": 0.0,
-            "dlyMix": 0.0,
-            "dlyTime": 125.0,
-            "end": 100.0,
-            "fxAmt": 0.0,
-            "fxType": {
-              "f": 0.0,
-              "s": "OFF"
-            },
-            "grainDelay": 50.0,
-            "grainSize": 80.0,
-            "loopLength": 0.0,
-            "loopStart": 0.0,
-            "modDepth": 0.0,
-            "modSpeed": 50.0,
-            "modType": {
-              "f": 0.0,
-              "s": "EG Filter"
-            },
-            "pitchRnd": 0.0,
-            "release": 0.0,
-            "res": 0.0,
-            "rvbDamp": 50.0,
-            "rvbMix": 0.0,
-            "sample": {
-              "f": 0.0,
-              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
-            },
-            "start": 0.0,
-            "transpose": 0.0
-          },
-          "saved": true,
-          "sequence": [
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
-              "len": 1.0,
-              "note": 60,
-              "prob": 1.0,
-              "vel": 0.800000011920929
-            },
-            {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4068,7 +4172,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4096,7 +4200,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4124,7 +4228,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4152,7 +4256,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4180,7 +4284,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4208,7 +4312,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4236,7 +4340,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4264,7 +4368,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4292,7 +4396,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4320,7 +4424,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4348,7 +4452,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4376,7 +4480,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4404,7 +4508,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,
@@ -4432,7 +4536,7 @@
               "vel": 0.800000011920929
             },
             {
-              "active": false,
+              "active": true,
               "len": 1.0,
               "note": 60,
               "prob": 1.0,

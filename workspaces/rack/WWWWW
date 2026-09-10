@@ -1,0 +1,4482 @@
+{
+  "bpm": 180.0,
+  "tracks": [
+    {
+      "activeClipIdx": 1,
+      "chain": [
+        0,
+        0,
+        1,
+        -1,
+        2
+      ],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Sample",
+          "name": "Kick",
+          "noteRepeat": 2,
+          "params": {
+            "attack": 0.0,
+            "compress": 96.0,
+            "cutoff": 0.0,
+            "delayRnd": 0.0,
+            "density": 0.0,
+            "detunMode": 1.0,
+            "detune": 0.0,
+            "dir": 1.0,
+            "dlyFdbk": 0.0,
+            "dlyMix": 0.0,
+            "dlyTime": 125.0,
+            "end": 3.0,
+            "fxAmt": 64.0,
+            "fxType": {
+              "f": 8.0,
+              "s": "Drive"
+            },
+            "grainDelay": 50.0,
+            "grainSize": 80.0,
+            "loopLength": 0.0,
+            "loopStart": 0.0,
+            "modDepth": 0.0,
+            "modSpeed": 50.0,
+            "modType": {
+              "f": 0.0,
+              "s": "EG Filter"
+            },
+            "pitchRnd": 0.0,
+            "release": 59.5,
+            "res": 0.0,
+            "rvbDamp": 50.0,
+            "rvbMix": 0.0,
+            "sample": {
+              "f": 108.0,
+              "s": "tekno-kicks-190bpm.wav"
+            },
+            "start": 0.0,
+            "transpose": 0.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        },
+        {
+          "engine": "Sample",
+          "name": "Clip 2",
+          "noteRepeat": 2,
+          "params": {
+            "attack": 0.0,
+            "compress": 96.0,
+            "cutoff": 0.0,
+            "delayRnd": 0.0,
+            "density": 0.0,
+            "detunMode": 1.0,
+            "detune": 0.0,
+            "dir": 1.0,
+            "dlyFdbk": 0.0,
+            "dlyMix": 0.0,
+            "dlyTime": 125.0,
+            "end": 1.5,
+            "fxAmt": 64.0,
+            "fxType": {
+              "f": 8.0,
+              "s": "Drive"
+            },
+            "grainDelay": 50.0,
+            "grainSize": 80.0,
+            "loopLength": 0.0,
+            "loopStart": 0.0,
+            "modDepth": 0.0,
+            "modSpeed": 50.0,
+            "modType": {
+              "f": 0.0,
+              "s": "EG Filter"
+            },
+            "pitchRnd": 0.0,
+            "release": 59.5,
+            "res": 0.0,
+            "rvbDamp": 50.0,
+            "rvbMix": 0.0,
+            "sample": {
+              "f": 95.0,
+              "s": "manic-tekno-175bpm.wav"
+            },
+            "start": 0.0,
+            "transpose": 0.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [
+        0,
+        1,
+        1,
+        2,
+        2
+      ],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Drum Sample",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "compress": 0.0,
+            "cutoff": 0.0,
+            "end": 3.1000003814697266,
+            "fxAmt": 0.0,
+            "fxType": {
+              "f": 0.0,
+              "s": "OFF"
+            },
+            "pitBendAmt": 0.0,
+            "pitBendDec": 25.0,
+            "pitStartAmt": -0.826446533203125,
+            "pitSweepAmt": 1.1583030223846436,
+            "pitSweepDec": 5.0,
+            "res": 0.0,
+            "rumbleAmt": 0.0,
+            "rumbleFilt": 0.0,
+            "rumbleGap": 10.0,
+            "rvbMix": 0.0,
+            "sample": {
+              "f": 108.0,
+              "s": "tekno-kicks-190bpm.wav"
+            },
+            "start": 0.0,
+            "transClip": 0.0,
+            "transRel": 0.0,
+            "transpose": 0.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Drum",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "baseFrequency": 39.0,
+            "bassBoost": 51.0,
+            "bendShape": 44.0,
+            "bodyBend": 7.0,
+            "bodyDuration": 1600.0,
+            "bodyMorph": 56.0,
+            "bodyShape": 50.0,
+            "character": 0.0,
+            "clapNoiseClr": 70.0,
+            "clapPunch": 50.0,
+            "clapTrans": 0.0,
+            "compress": 100.0,
+            "cutoff": -14.049591064453125,
+            "drive": 48.0,
+            "fxAmt": 0.0,
+            "fxType": {
+              "f": 0.0,
+              "s": "OFF"
+            },
+            "hiClapDuration": 150.0,
+            "hiFmAmt": 25.0,
+            "hiInharmonic": 40.0,
+            "hiNoiseMix": 20.0,
+            "hiTightness": 50.0,
+            "mix": 20.0,
+            "resonance": 29.338842391967773,
+            "ringAmount": 0.0,
+            "rvbMix": 40.0,
+            "snapTone": 0.0,
+            "sweepDep": 25.0,
+            "sweepLen": 0.0,
+            "sweepShp": 17.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Drum",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "baseFrequency": 100.0,
+            "bassBoost": 30.0,
+            "bendShape": 0.0,
+            "bodyBend": 25.0,
+            "bodyDuration": 400.0,
+            "bodyMorph": 0.0,
+            "bodyShape": 0.0,
+            "character": 0.0,
+            "clapNoiseClr": 70.0,
+            "clapPunch": 50.0,
+            "clapTrans": 0.0,
+            "compress": 100.0,
+            "cutoff": 0.0,
+            "drive": 0.0,
+            "fxAmt": 0.0,
+            "fxType": {
+              "f": 0.0,
+              "s": "OFF"
+            },
+            "hiClapDuration": 150.0,
+            "hiFmAmt": 25.0,
+            "hiInharmonic": 40.0,
+            "hiNoiseMix": 20.0,
+            "hiTightness": 50.0,
+            "mix": 0.0,
+            "resonance": 0.0,
+            "ringAmount": 0.0,
+            "rvbMix": 0.0,
+            "snapTone": 0.0,
+            "sweepDep": 0.0,
+            "sweepLen": 0.0,
+            "sweepShp": 0.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Sample",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "attack": 0.0,
+            "compress": 0.0,
+            "cutoff": 36.36363220214844,
+            "delayRnd": 0.0,
+            "density": 12.0,
+            "detunMode": 1.0,
+            "detune": 8.0,
+            "dir": 1.0,
+            "dlyFdbk": 42.0,
+            "dlyMix": 77.0,
+            "dlyTime": 125.0,
+            "end": 100.0,
+            "fxAmt": 37.0,
+            "fxType": {
+              "f": 19.0,
+              "s": "Tremolo"
+            },
+            "grainDelay": 50.0,
+            "grainSize": 104.0,
+            "loopLength": 0.0,
+            "loopStart": 0.0,
+            "modDepth": 47.0,
+            "modSpeed": 73.0,
+            "modType": {
+              "f": 29.0,
+              "s": "S&H Pitch"
+            },
+            "pitchRnd": 34.0,
+            "release": 0.0,
+            "res": 56.68449401855469,
+            "rvbDamp": 9.0,
+            "rvbMix": 60.0,
+            "sample": {
+              "f": 31.0,
+              "s": "352508__epicdude959__creepy-ghost-scream.wav"
+            },
+            "start": 0.0,
+            "transpose": 0.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 1.0,
+              "note": 60,
+              "prob": 0.5000004768371582,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Void Bass",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "accent": 66.0,
+            "cutoff": 33.0,
+            "decay": 360.0,
+            "dlyFdbk": 30.0,
+            "dlyMix": 54.0,
+            "dlyTime": 250.0,
+            "drive": 17.0,
+            "envMod": 40.0,
+            "frequency": 253.7101593017578,
+            "glide": 160.0,
+            "hpCut": 21.0,
+            "lfoRate": 19.650001525878906,
+            "lfoTarget": {
+              "f": 0.0,
+              "s": "Off"
+            },
+            "morph": 100.0,
+            "pulseWidth": 95.0,
+            "resonance": 87.0,
+            "subMix": 18.0,
+            "wavefold": 24.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.889397144317627
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 14.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.6707659959793091
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 51,
+              "prob": 1.0,
+              "vel": 0.499933123588562
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 51,
+              "prob": 1.0,
+              "vel": 0.451830118894577
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.5709197521209717
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.85518479347229
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 63,
+              "prob": 1.0,
+              "vel": 0.6271305084228516
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.6750955581665039
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 14.0,
+              "note": 47,
+              "prob": 1.0,
+              "vel": 0.6455086469650269
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.8799999952316284
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Tribe Wave",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "attack": 5.0,
+            "cutoff": 55.0,
+            "dlyFdbk": 0.0,
+            "dlyMix": 82.0,
+            "dlyTime": 125.0,
+            "fxAmt": 63.0,
+            "fxType": {
+              "f": 7.0,
+              "s": "Bass boost"
+            },
+            "gain": 56.0,
+            "glide": 185.0,
+            "modDepth": 85.0,
+            "modSpeed": 50.0,
+            "modType": {
+              "f": 18.0,
+              "s": "SawUp Flt"
+            },
+            "release": 1515.0,
+            "res": 88.0,
+            "rvbDamp": 50.0,
+            "rvbMix": 59.0,
+            "wtMorph": 22.0,
+            "wtSelect": 18.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.8727434277534485
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.5903747081756592
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.4702824354171753
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.5783456563949585
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.8727434277534485
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 48,
+              "prob": 1.0,
+              "vel": 0.5903747081756592
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 8.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.4702824354171753
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": true,
+              "len": 4.0,
+              "note": 55,
+              "prob": 1.0,
+              "vel": 0.5783456563949585
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "activeClipIdx": 0,
+      "chain": [],
+      "chainLoopMode": 0,
+      "clips": [
+        {
+          "engine": "Sample",
+          "name": "Clip 1",
+          "noteRepeat": 2,
+          "params": {
+            "attack": 0.0,
+            "compress": 0.0,
+            "cutoff": 0.0,
+            "delayRnd": 0.0,
+            "density": 0.0,
+            "detunMode": 1.0,
+            "detune": 0.0,
+            "dir": 1.0,
+            "dlyFdbk": 0.0,
+            "dlyMix": 0.0,
+            "dlyTime": 125.0,
+            "end": 100.0,
+            "fxAmt": 0.0,
+            "fxType": {
+              "f": 0.0,
+              "s": "OFF"
+            },
+            "grainDelay": 50.0,
+            "grainSize": 80.0,
+            "loopLength": 0.0,
+            "loopStart": 0.0,
+            "modDepth": 0.0,
+            "modSpeed": 50.0,
+            "modType": {
+              "f": 0.0,
+              "s": "EG Filter"
+            },
+            "pitchRnd": 0.0,
+            "release": 0.0,
+            "res": 0.0,
+            "rvbDamp": 50.0,
+            "rvbMix": 0.0,
+            "sample": {
+              "f": 0.0,
+              "s": "0_0_0__owly-bee__impossible-how-could-i-ghostly.wav"
+            },
+            "start": 0.0,
+            "transpose": 0.0
+          },
+          "saved": true,
+          "sequence": [
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            },
+            {
+              "active": false,
+              "len": 1.0,
+              "note": 60,
+              "prob": 1.0,
+              "vel": 0.800000011920929
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
